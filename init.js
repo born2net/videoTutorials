@@ -9,6 +9,7 @@ require.config({
     paths: {
         'jquery': '_common/_jquery/std/jq1.9.1/jquery-1.9.1',
         'easing': '_common/_jquery/easing/easing',
+        'jstree': '_common/_js/jstree/jstree',
         'backbone': '_common/_js/backbone/backbone',
         'text': '_common/_js/requirejs/text',
         'backbone.controller': '_common/_js/backbone-controller/backbone.controller',
@@ -21,7 +22,7 @@ require.config({
         'gibberish-aes': '_common/_js/encrypts/gibberish-aes',
         'md5': '_common/_js/encrypts/md5',
         'moment': '_common/_js/moment/moment',
-        'Cookie': '_common/_js/cookie/jquery.cookie',
+        'Cookie': '_common/_js/cookie/cookie',
         'ComBroker': '_controllers/ComBroker',
         'XDate': '_common/_js/xdate/xdate',
         'simplestorage': '_common/_js/simplestorage/simpleStorage',
@@ -51,6 +52,10 @@ require.config({
         'easing': {
             deps: ['jquery'],
             exports: 'jQuery.easing'
+        },
+        'jstree': {
+            deps: ['jquery'],
+            exports: 'jstree'
         },
         'underscore': {
             exports: '_'
