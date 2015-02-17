@@ -1,0 +1,37 @@
+<root>
+	<item state="open">
+		<content><name><![CDATA[mediaCLOUD]]></name></content>
+		<item>
+		   <content><name><![CDATA[Start here]]></name></content>
+         <item><content><name videoURL="http://videos.signage.me/DSIntro.mp4"><![CDATA[Basic intro]]></name></content></item>
+         <item><content><name videoURL="http://videos.signage.me/Campaigns.mp4"><![CDATA[Intro to Campaigns]]></name></content></item>
+         <item><content><name videoURL="http://videos.signage.me/ScreenTypes.flv"><![CDATA[Screen Types]]></name></content></item>
+         <item><content><name videoURL="http://videos.signage.me/Scenes.mp4"><![CDATA[Intro to Scenes]]></name></content></item>
+         <item><content><name videoURL="http://videos.signage.me/SharedLibrary.mp4"><![CDATA[Shared Library]]></name></content></item>
+		</item>
+	</item>
+
+	<item>
+		<content><name><![CDATA[Enterprise]]></name></content>
+		<item>
+			<content><name><![CDATA[Get Started]]></name></content>
+		</item>
+		<item>
+		   <content><name><![CDATA[Get Started]]></name></content>
+      </item>
+	</item>
+
+
+	<item>
+		<content><name><![CDATA[mediaSERVER]]></name></content>
+		<item>
+			<content><name><![CDATA[Get Started]]></name></content>
+		</item>
+		<item>
+		   <content><name><![CDATA[Get Started]]></name></content>
+      </item>
+	</item>
+
+
+
+</root>

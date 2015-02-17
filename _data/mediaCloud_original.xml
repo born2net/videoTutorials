@@ -1,0 +1,114 @@
+<root>
+	<folder fileDir="true" label="Start here">
+		<item videoid="StartHere" label="Basic intro" videoURL="http://videos.signage.me/DSIntro.mp4" description="This is a great introduction video tutorial that explains the basics of the solution and how to get started" forceSize="true"/>
+		<item videoid="campaigns" label="Intro to Campaigns" videoURL="http://videos.signage.me/Campaigns.mp4" description="This is the heart of your Signage Studio. Learn how to configure the timeline, assign channels and load resources" forceSize="true"/>
+		<item videoid="ScreenTypes" label="Screen Types" videoURL="http://videos.signage.me/ScreenTypes.flv" description="Introduction to release 4.0" forceSize="true"/>
+		<item videoid="IntroToScns" label="Intro to Scenes" videoURL="http://videos.signage.me/Scenes.mp4" description="Intro the powerful scenes" forceSize="true"/>
+		<item videoid="sharedLibrary" label="Shared Library" videoURL="http://videos.signage.me/SharedLibrary.mp4" description="" forceSize="true"/>		
+	</folder>
+	<folder fileDir="true" label="Studio components">
+		<item videoid="12" label="Weather component" videoURL="http://videos.signage.me/Weather.mp4" description="Learn how to use the Weather forecast. International and US based" forceSize="true"/>
+		<item videoid="14" label="Stock component" videoURL="http://videos.signage.me/Stocks.mp4" description="Learn how to use the Stock Ticker component" forceSize="true"/>
+		<item videoid="16" label="RSS/News/Podcast component" videoURL="http://videos.signage.me/rssMediaRSS.mp4" description="Take advantage of the RSS and Media RSS components including videos and news tickers" forceSize="true"/>
+		<item videoid="XML component" label="XML Component" videoURL="http://videos.signage.me/XMLComponent.flv" description="XML Component" forceSize="true"/>
+		<item videoid="Catalog" label="Catalog component" videoURL="http://videos.signage.me/Catalog.mp4" description="The catalog allows you to display a sequnetial list of items or products within your Signage presenation" forceSize="true"/>
+		<item videoid="Facebook component" label="Facebook component" videoURL="http://videos.signage.me/Facebook.flv" description="Facebook" forceSize="true"/>
+		<item videoid="TwitterComponent" label="Twitter component" videoURL="http://videos.signage.me/TwitterV2.mp4" description="Use the XML component to load Twitter data" forceSize="true"/>
+		<item videoid="YouTube" label="YouTube component" videoURL="http://videos.signage.me/YouTube.mp4" description="YouTube component load YouTube videos" forceSize="true"/>
+		<item videoid="QR component" label="QR Code component" videoURL="http://videos.signage.me/QR.flv" description="QR" forceSize="true"/>
+		<item videoid="RemoteTouch" label="RemoteTouch with Mobile" videoURL="http://videos.signage.me/RemoteTouch.mp4" description="Learn to config RemoteTouch" forceSize="true"/>		
+		<item videoid="RemoteValues" label="Remote Values component" videoURL="http://videos.signage.me/RemoteValues.mp4" description="Learn to config RemoteTouch" forceSize="true"/>
+		<item videoid="RemoteCounter" label="Remote Counter component" videoURL="http://videos.signage.me/RemoteCounter.mp4" description="Learn to config RemoteCounter" forceSize="true"/>
+		<item videoid="Chat" label="Chat component" videoURL="http://videos.signage.me/Chat.mp4" description="Learn to config RemoteTouch" forceSize="true"/>
+		<item videoid="Countdown" label="Countdown component" videoURL="http://videos.signage.me/countdown.mp4" description="Learn to config RemoteTouch" forceSize="true"/>		
+		<item videoid="Emergency" label="Emergency and Alerting" videoURL="http://videos.signage.me/Emergency.mp4" description="Emergency and alertingl" forceSize="true"/>
+		<item videoid="Collection component" label="Collection component" videoURL="http://videos.signage.me/collection.flv" description="Collection" forceSize="true"/>
+		<item videoid="Form component" label="Form component" videoURL="http://videos.signage.me/Form.flv" description="Easily create Form and submit a form" forceSize="true"/>
+		<item videoid="8" label="WebCam USB component" videoURL="http://videos.signage.me/WebCam.mp4" description="Learn how to use a capture device and get Live TV, DVD, Security Cam and other devices integrated" forceSize="true"/>
+		<item videoid="10" label="HTML component" videoURL="http://videos.signage.me/HTML.mp4" description="Learn the real power of the HTML component. Embed any web technology and get the power of a MiniSDK" forceSize="true"/>
+		<item videoid="labelq" label="Label Queue" videoURL="http://videos.signage.me/Labelq.mp4" description="Label Queue" forceSize="true"/>
+		<item videoid="customRSS" label="Custom RSS component" videoURL="http://videos.signage.me/customRSS.mp4" description="Create your own custom none scrolling / animated RSS feed" forceSize="true"/>
+		<item videoid="hdCapture" label="mediaTV component" videoURL="http://videos.signage.me/CaptureHD.mp4" description="" forceSize="true"/>
+		<item videoid="dateAndTime" label="Date/Time/Clocks component" videoURL="http://videos.signage.me/datetime.mp4" description="The Date and Time component allows you to set custom fields including time zones and world clocks" forceSize="true"/>
+		<item videoid="powerPoint" label="Power Point component" videoURL="http://videos.signage.me/powerpoint.mp4" description="Add PowerPoint slides directly to a screen division. Take advantage of technologies you are familiar with to enrich your presentation" forceSize="true"/>
+	</folder>
+	<folder fileDir="true" label="Channels">
+		<item videoid="localChannel" label="Local Channels" videoURL="http://videos.signage.me/localChannels.mp4" description="Learn the ins and outs of the Local Channel including different ways to tweak it to work more efficiently" forceSize="true"/>
+		<item videoid="commonChannel" label="Common Channels" videoURL="http://videos.signage.me/commonChannels.mp4" description="Cut back on your work with common channels. Create a timelime that appears throughout all timelines" forceSize="true"/>
+		<item videoid="ContinousChannel" label="Continuous Channel" videoURL="http://videos.signage.me/ContinuousChannel.mp4" description="Continuous Channel" forceSize="true"/>
+	</folder>
+	<folder fileDir="true" label="Resources">
+		<item videoid="30" label="Use media files" videoURL="http://videos.signage.me/Resources.mp4" description="Learn how to upload and use media files.\nUpload delete and modify resources" forceSize="true"/>
+		<item videoid="32" label="External resources" videoURL="http://videos.signage.me/ExternalResources.mp4" description="Learn the real power of internal vs external resources and allow development external access to your SWFs" forceSize="true"/>
+		<item videoid="bgmask" label="Backgrounds and Masks" videoURL="http://videos.signage.me/BackMask.mp4" description="Learn how to setup Backgrounds and Masks to enrich your presentation" forceSize="true"/>
+		<item videoid="Content" label="Content creation" videoURL="http://videos.signage.me/Content.flv" description="Easily create content" forceSize="true"/>
+	</folder>
+	<folder fileDir="true" label="Sequence / Scheduler">
+		<item videoid="50" label="Timeline Sequencer" videoURL="http://videos.signage.me/Sequences.mp4" description="Setup the timelines in a sequential order so you may have flexible control on what plays and in which order" forceSize="true"/>
+		<item videoid="campaignSched" label="Timeline  Scheduler" videoURL="http://videos.signage.me/Scheduler.mp4" description="Scheduler allows you to create a scheduled programming guide for your timelines" forceSize="true"/>
+	</folder>
+	<folder fileDir="true" label="Players">
+		<item videoid="60" label="Desktop Player" videoURL="http://videos.signage.me/SignagePlayer.mp4" description="Learn the difference between WEBPlayer and AIRPlayer. How to install and how to use your Digital Signage Players" forceSize="true"/>
+		<item videoid="embeddedPlayer" label="Embedded Player" videoURL="http://videos.signage.me/EmbeddedPlayer.mp4" description="Use the SignagePlayer embedded version to embed a full Digital Signage or interactive Kiosk right onto a web site. Create dynamic banners, all synced with your SignagePlayer Desktop players." forceSize="true"/>
+		<item videoid="AndroidPlayer" label="Android Player" videoURL="http://videos.signage.me/AndroidMultiScreen.mp4" description="Android SignagePlayer cross OS" forceSize="true"/>
+		<item videoid="mediaDROID" label="mediaDROID" videoURL="http://videos.signage.me/mediaDROID.mp4" description="" forceSize="true"/>
+	</folder>
+	<folder fileDir="true" label="Internet of things">
+		<item videoid="vera" label="IOT Vera" videoURL="http://videos.signage.me/iotVera.mp4" description="" forceSize="true"/>
+		<item videoid="arduino" label="IOT Arduino Yun" videoURL="http://videos.signage.me/arduinoYun.mp4" description="" forceSize="true"/>
+		<item videoid="RemoteTouch" label="RemoteTouch with Mobile" videoURL="http://videos.signage.me/RemoteTouch.mp4" description="Learn to config RemoteTouch" forceSize="true"/>		
+		<item videoid="RemotePad" label="RemotePad with Mobile" videoURL="http://videos.signage.me/RemotePad.mp4" description="Learn to config RemotePad" forceSize="true"/>		
+		<item videoid="RemoteValues" label="Remote Values component" videoURL="http://videos.signage.me/RemoteValues.mp4" description="Learn to config RemoteTouch" forceSize="true"/>		
+		<item videoid="EventsTriggers" label="Events and Triggers" videoURL="http://videos.signage.me/EventsTriggers.mp4" description="" forceSize="true"/>		
+		<item videoid="Scripts" label="Scripting" videoURL="http://videos.signage.me/Scriping.mp4" description="" forceSize="true"/>		
+	</folder>
+	<folder fileDir="true" label="Tips and Tricks">
+		<item videoid="updatePlayers" label="Update remote Players" videoURL="http://videos.signage.me/updatePlayers.flv" description="Learn about all the ways you can update remote players" forceSize="true"/>
+		<item videoid="ContinousChannel" label="Continuous Channel" videoURL="http://videos.signage.me/ContinuousChannel.mp4" description="Continuous Channel" forceSize="true"/>
+		<item videoid="copyPaste" label="Copy/Paste between accounts" videoURL="http://videos.signage.me/CopyPaste.mp4" description="" forceSize="true"/>		
+		<item videoid="HTMLCrop" label="Cropping HTML web site" videoURL="http://videos.signage.me/HTMLCrop.mp4" description="" forceSize="true"/>
+		<item videoid="Multi functions" label="Multi selection / alignments" videoURL="http://videos.signage.me/MultiFunctions.flv" description="Use drag and drop, multi selection and alignment" forceSize="true"/>
+		<item videoid="folderFilterv2" label="Folder and Filters" videoURL="http://videos.signage.me/FolderFilter.mp4" description="Better studio management with folders and filters" forceSize="true"/>
+		<item videoid="perspective" label="Resource perspective" videoURL="http://videos.signage.me/perspective.mp4" description="Keep resources from getting skewed" forceSize="true"/>
+		<item videoid="chprops" label="Channel properties" videoURL="http://videos.signage.me/chprops.mp4" description="Learn more about channel properties" forceSize="true"/>
+		<item videoid="globalscenes" label="Global Scene" videoURL="http://videos.signage.me/globalscenes.mp4" description="Set a global scene among multiple timelines and campaigns" forceSize="true"/>
+		<item videoid="thumbnails" label="Resource Thumbnail" videoURL="http://videos.signage.me/thumbnails.mp4" description="Learn how to create thumbnails for your resources" forceSize="true"/>
+		<item videoid="viewlevel" label="Screen Division levels" videoURL="http://videos.signage.me/viewlevel.mp4" description="Control screen vision layers using drag and drop operation" forceSize="true"/>
+	</folder>
+	<folder fileDir="true" label="Advertising">
+	<!--
+		<item videoid="OutgoingAds" label="Outgoing Ad Packages" videoURL="http://videos.signage.me/AdEngineOutgoing.flv" description="" forceSize="true"/>
+       -->
+       <item videoid="ProofOfPlay" label="Proof of play" videoURL="http://videos.signage.me/ProofOfPlay.mp4" description="" forceSize="true"/>
+	   <item videoid="ProofOfDisplay" label="Proof of display" videoURL="http://videos.signage.me/proofofdisplay.mp4" description="" forceSize="true"/>
+	   
+
+	</folder>
+	<folder fileDir="true" label="Open Source Signage">
+		<item videoid="opensource" label="Open source (Pepper)" videoURL="http://videos.signage.me/StudioLiteSDK.mp4" description="Open source Digital Signage" forceSize="true"/>		
+	</folder>
+	<folder fileDir="true" label="Advanced">
+		<folder fileDir="true" label="External Apps">
+			<item videoid="IntroExtApplication" label="Intro" videoURL="http://videos.signage.me/ExternalApplicationIntro.mp4" description="Basic introduction to the advanced External App Component (Windows/Ubuntu OS)" forceSize="true"/>
+			<item videoid="hdCaptureExtApp" label="Capture/Live HD TV" videoURL="http://videos.signage.me/CaptureHD.mp4" description="" forceSize="true"/>
+			<item videoid="FireFox" label="FireFox" description="Video tutorial demonstrates how to use FireFox to embed a Web Browser inside a screen division (Windows/Ubuntu OS)" videoURL="http://videos.signage.me/ExternalApplicationFireFox.mp4" forceSize="true"/>
+			<item videoid="VLC" label="VLC" description="Video LAN (VLC) is a very powerful Media Player that can play almost any file format as well as stream content. Learn how to embed it inside a screen division (Windows/Ubuntu OS)" videoURL="http://videos.signage.me/ExternalApplicationVLC.mp4" forceSize="true"/>
+			<item videoid="powerPointExtApp" label="PowerPoint" videoURL="http://videos.signage.me/powerpoint.mp4" description="Add PowerPoint slides directly to a screen division. Take advantage of technologies you are familiar with to enrich your presentation" forceSize="true"/>
+		</folder>		 		
+		<item videoid="Transition" label="Transition effect" videoURL="http://videos.signage.me/Transition.mp4" description="Setup special effects" forceSize="true"/>
+		<item videoid="EventsTriggers" label="Events and Triggers" videoURL="http://videos.signage.me/EventsTriggers.mp4" description="" forceSize="true"/>
+		<item videoid="Scripts" label="Scripting" videoURL="http://videos.signage.me/Scriping.mp4" description="" forceSize="true"/>		
+		<item videoid="VideoWall" label="Video wall setup" videoURL="http://videos.signage.me/VideoWall.flv" description="Setup a Video wall" forceSize="true"/>
+		<item videoid="PowerSavings" label="Power Savings" videoURL="http://videos.signage.me/PowerSavings.mp4" description="Go Green. Save energy by turning the SignagePlayer physically On and OFF everyday of the week" forceSize="true"/>
+		<item videoid="ServerConnection" label="Server connections" videoURL="http://videos.signage.me/ServerConnections.mp4" description="Learn about how server connections are done" forceSize="true"/>
+		<item videoid="LinuxInstall" label="Linux Installation" videoURL="http://videos.signage.me/LinuxInstall.mp4" description="Learn how to install the SignagePlayer on Linux Ubuntu 9.04. Step by step instructions on how to install and configure the SignagePlayer" forceSize="true"/>
+		<item videoid="Mac" label="Mac Installation" videoURL="http://videos.signage.me/Mac.mp4" description="Learn how to install the SignagePlayer on a Mac" forceSize="true"/>
+		<item videoid="OfflineUpdater" label="Offline Updater (SneakerNet)" videoURL="http://videos.signage.me/OfflineUpdate.mp4" description="The tutorial demonstrates how to manually update a remote station that does not have internet connectivity. This is accomplished by exporting all data to a Flash drive and importing it onto the SignagePlayer" forceSize="true"/>				
+		<item videoid="kiosk" label="Kiosk" videoURL="http://videos.signage.me/Kiosk.mp4" description="Build a powerful Kiosk system using our Digital Signage platform. Download a working example from http://master.signage.me/MasterServer/Samples/Kiosk/RestaurantModule.zip" forceSize="true"/>
+		<item videoid="MultiScreen" label="Multi Output" videoURL="http://videos.signage.me/MultiOutput.mp4" description="Connect multiple AIRPlayers to a single timeline while combining shared and unique channels among these AIRPlayers" forceSize="true"/>
+		<item videoid="SignageScreenSaver" label="Interrupt mode" videoURL="http://videos.signage.me/InteruptMode.mp4" description="Run the signage presentation like a screen save so it kicks in only when no user interaction exists. Great for POS and other system integration." forceSize="true"/>
+		<item videoid="music" label="Music Player" videoURL="http://videos.signage.me/MusicPlayer.mp4" description="The music player is an integrated part of the AIRPlayer and it allows you to run your own custom music playlists as background music. You can control the music selection remotely" forceSize="true"/>
+		<item videoid="VideoConversion" label="Video Conversion" videoURL="http://videos.signage.me/VideoConversion.mp4" description="Learn how to convert none compatible video formats to a compatible ones using a freeware utility" forceSize="true"/>		
+		<item videoid="localization" label="Localization" videoURL="http://videos.signage.me/Localization.mp4" description="" forceSize="true"/>		
+	</folder>
+</root>

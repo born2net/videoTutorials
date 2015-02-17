@@ -1,0 +1,6 @@
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by John Doe (ACME Inc.) -->
+<root>
+	<item videoid="mediaServerInstall" label="mediaSERVER install" videoURL="http://videos.signage.me/mediaServerInstall.mp4" description="" forceSize="true"/>
+	<item videoid="mediaServerPlayerStudio" label="Player and Studio setup" videoURL="http://videos.signage.me/mediaServerStudioPlayer.mp4" description="" forceSize="true"/>
+	<item videoid="mediaServerAddLicenes" label="Add Licenses" videoURL="http://videos.signage.me/mediaServerLicenes.mp4" description="" forceSize="true"/>
+</root>

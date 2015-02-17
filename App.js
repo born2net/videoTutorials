@@ -24,13 +24,27 @@ define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'easing', 'jstre
             });
 
             self.initTree();
+
         },
 
         initTree: function () {
             var self = this;
             $("#demo1").jstree({
-                // the `plugins` array allows you to configure the active plugins on this instance
-                "plugins": ["themes", "html_data", "ui", "crrm"],
+                "xml_data" : {
+                    "ajax" : {
+                        "url" : "/videoTutorials/_data/mediaCloud.xml",
+                        "success" : function(data, textStatus, XMLHttpRequest){
+                            setTimeout(function(){
+                                $('a').on('click',function(e){
+                                    log($(this).attr('videoURL'));
+                                })
+                            },250)
+
+                        }
+                    },
+                    "xsl" : "nest"
+                },
+                "plugins": ["themes", "xml_data", "ui", "crrm"],
                 // each plugin you have included can have its own config object
                 "core": {
                     "animation": 100,

@@ -1,0 +1,21 @@
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by John Doe (ACME Inc.) -->
+<root>
+	<item videoid="StartHere" label="Reseller Program intro" videoURL="http://videos.signage.me/Resellers.mp4" description="This is a great introduction to the reseller program and covers all the basics" forceSize="true"/>
+	<item videoid="managingUsers" label="Manage users" videoURL="http://videos.signage.me/ManagingUsers.mp4" description="Manage multiple users and also learn how to launch the SignageStudio directly as a sub user" forceSize="true"/>
+	<item videoid="manageBusinesses" label="Manage Businesses" videoURL="http://videos.signage.me/ManageBusinesses.mp4" description="Manage your customers; create new accounts and associate existing customers as sub accounts of your reseller studio" forceSize="true"/>
+	<item videoid="multiUsers" label="Multi user support" videoURL="http://videos.signage.me/MultiUsers.mp4" description="Learn about multiple concurrent user support; synchronize data between active users and resolve data conflicts" forceSize="true"/>
+	<item videoid="privileges" label="Managed Privileges" videoURL="http://videos.signage.me/Privileges.mp4" description="Set privileges and manage what users can and cannot access within the SignageStudio" forceSize="true"/>
+	<item videoid="accessKeys" label="Access keys" videoURL="http://videos.signage.me/AccessKeys.mp4" description="Create specific rules using access control lists on which resources your users can work on" forceSize="true"/>
+	<item videoid="witeLabel.flv" label="White Label / Branding" videoURL="http://videos.signage.me/WhiteLabel.mp4" description="Learn how to brand your own digital signage product and white label the solution thus making it your own directly off your web site" forceSize="true"/>		
+	<item videoid="copyPaste" label="Copy/Paste between accounts" videoURL="http://videos.signage.me/CopyPaste.mp4" description="" forceSize="true"/>		
+	<item videoid="sharedLibrary" label="Shared Library" videoURL="http://videos.signage.me/SharedLibrary.mp4" description="" forceSize="true"/>		
+	
+	<folder fileDir="true" label="Advertising Engine">
+	<!--
+		<item videoid="AdEngineIntro" label="Ad Engine Intro" videoURL="http://videos.signage.me/AdEngineIntro.flv" description="" forceSize="true"/>
+		<item videoid="OutgoingAds" label="Outgoing Ad Packages" videoURL="http://videos.signage.me/AdEngineOutgoing.flv" description="" forceSize="true"/>
+		<item videoid="AdPrivileges" label="Ad Privileges" videoURL="http://videos.signage.me/AdPrivileges.flv" description="" forceSize="true"/>
+	-->
+	       <item videoid="ProofOfPlay" label="Proof of play" videoURL="http://videos.signage.me/ProofOfPlay.mp4" description="" forceSize="true"/>
+	</folder>
+</root>
