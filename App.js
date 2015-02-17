@@ -5,12 +5,12 @@
  @constructor
  @return {Object} instantiated App
  **/
-define(['underscore', 'jquery', 'backbone', 'bootstrap', 'backbone.controller', 'ComBroker', 'Lib'], function (_, $, Backbone, Bootstrap, backbonecontroller, ComBroker, Lib) {
+
+define(['underscore', 'backbone', 'backbone.controller', 'ComBroker', 'Lib', 'easing'], function (_, Backbone, backbonecontroller, ComBroker, Lib, easing) {
     var App = Backbone.Controller.extend({
 
         // app init
         initialize: function () {
-
             window.BB = Backbone;
             BB.globs = {};
             BB.SERVICES = {};
@@ -27,26 +27,10 @@ define(['underscore', 'jquery', 'backbone', 'bootstrap', 'backbone.controller', 
             window.log = BB.lib.log;
             $.ajaxSetup({cache: false});
             $.ajaxSetup({
-                headers: {'Authorization': 'somePasswordHere'}
+                headers: {'Authorization': 'no_pass'}
             });
-
-            // define applications
-            BB.CONSTS.MAILWASP = 'mailWasp';
-            BB.CONSTS.EVERNODES = 'everNodes';
-
-            // internationalization
-            require(['localizer'], function () {
-                var lang = "en";
-                var opts = { language: lang, pathPrefix: "./_lang" };
-                $("[data-localize]").localize("local", opts);
-            });
-
-            // router init
-            require(['LayoutRouter'], function (LayoutRouter) {
-                var LayoutRouter = new LayoutRouter();
-                BB.history.start();
-                BB.comBroker.setService(BB.SERVICES['LAYOUT_ROUTER'], LayoutRouter);
-                LayoutRouter.navigate('authenticate/_/_', {trigger: true});
+            $('#inner_wrapepr5').on('click',function(){
+                alert('clicked');
             })
         }
     });

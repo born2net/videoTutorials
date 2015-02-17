@@ -2,11 +2,13 @@
  Require js initialization module definition file for StudioLite
  @class Require init js
  **/
+
 require.config({
     waitSeconds: 25,
-    baseUrl: '/boilerplate/public/',
+    baseUrl: '/videoTutorials',
     paths: {
         'jquery': '_common/_jquery/std/jq1.9.1/jquery-1.9.1',
+        'easing': '_common/_jquery/easing/easing',
         'backbone': '_common/_js/backbone/backbone',
         'text': '_common/_js/requirejs/text',
         'backbone.controller': '_common/_js/backbone-controller/backbone.controller',
@@ -45,6 +47,10 @@ require.config({
         },
         'LayoutRouter': {
             deps: ['Elements', 'backbone.controller']
+        },
+        'easing': {
+            deps: ['jquery'],
+            exports: 'jQuery.easing'
         },
         'underscore': {
             exports: '_'
