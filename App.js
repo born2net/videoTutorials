@@ -37,8 +37,8 @@ define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'easing', 'jstre
                 preload: 'auto',
                 plugins: {
                     speed: [
-                        {text: '2', rate: 2, selected: true},
-                        {text: '1', rate: 1},
+                        {text: '1', rate: 1, selected: true},
+                        {text: '2', rate: 2},
                         {text: '4', rate: 4},
                         {text: '8', rate: 8}
                     ]
@@ -51,6 +51,8 @@ define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'easing', 'jstre
                     self.endVideo();
                 });
             });
+
+            //$('#videoIntro').bind('contextmenu',function() { return false; });
 
             $('#exitVideo').on('click', function () {
                 self.endVideo();
