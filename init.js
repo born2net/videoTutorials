@@ -9,7 +9,7 @@ require.config({
     paths: {
         'jquery': '_common/_jquery/std/jq1.9.1/jquery-1.9.1',
         'easing': '_common/_jquery/easing/easing',
-        'jstree': '_common/_js/jstree/jstree',
+        'jstree': '_common/_js/jstree/src/jstree',
         'backbone': '_common/_js/backbone/backbone',
         'text': '_common/_js/requirejs/text',
         'backbone.controller': '_common/_js/backbone-controller/backbone.controller',

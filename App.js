@@ -35,97 +35,57 @@ define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'easing', 'jstre
                 self.m_videoPlayer = this;
                 $('#videoIntro').width(1000).height(600);
                 self.m_videoPlayer.load();
-                //self.m_videoPlayer.play();
+                self.m_videoPlayer.on('ended', function () {
+                    self.endVideo();
+                });
             });
 
             $('#exitVideo').on('click', function () {
-                $('#videoPlayerContainer').fadeOut('fast', function () {
-                    self.m_videoPlayer.pause();
-                    $('#demo1').fadeIn();
-                });
+                self.endVideo();
             })
+        },
+
+        endVideo: function () {
+            var self = this;
+            $('#exitVideo').hide();
+            $('#videoPlayerContainer').fadeOut('fast', function () {
+                self.m_videoPlayer.pause();
+                $('#demo1').fadeIn();
+            });
         },
 
         initTree: function () {
             var self = this;
-
-            /*
-            $.ajax({
-                type: "GET",
-                "url": "/videoTutorials/_data/mediaCloud.xml",
-                dataType: "xml",
-                "xsl": "nest",
-                success: function (xmlData) {
-                    var xmlstr = xmlData ? xmlData : ( new XMLSerializer()).serializeToString(xmlData)
-                    xmlstr = xmlstr.replace(/\r/ig,'');
-                    xmlstr = xmlstr.replace(/\n/ig,'');
-                    xmlstr = xmlstr.replace(/\t/ig,'');
-
-                    var x = ''
-                    x += '<root>'
-                    x += '<item id="xml_1">'
-                    x += '<content><name><![CDATA[Root node 1]]></name></content>'
-                    x += '<item id="xml_2">'
-                    x += '<content><name><![CDATA[Child node 1]]></name></content>'
-                    x += '</item>'
-                    x += '</item>'
-                    x += '</root>'
-
-                    $("#demo1").jstree({
-                        "xml_data": {
-                            "data": x
-                        },
-                        "plugins": ["themes", "xml_data", "ui", "crrm"],
-                        "core": {
-                            "animation": 100,
-                            "initially_open": ["phtml_1"]
-                        },
-                        "themes": {
-                            "theme": "photonui"
-                        }
-                    });
-                }
-            });
-            */
-
-            $("#demo1").jstree({
-                "xml_data": {
-                    "ajax": {
-                        "url": "/videoTutorials/_data/mediaCloud.xml",
-                        dataType: "text",
-                        "error": function (data, textStatus, XMLHttpRequest) {
-                            alert('problem loading xml')
-                        },
-                        "success": function (data, textStatus, XMLHttpRequest) {
-                            setTimeout(function () {
-                                $('a').on('click', function (e) {
-                                    var url = $(this).attr('url');
-                                    if (_.isUndefined(url))
-                                        return;
-                                    $('#demo1').fadeOut('fast', function () {
-                                        $('#videoPlayerContainer').fadeIn();
-                                        $('#videoIntro').find('video:nth-child(1)').attr("src", url);
-                                        $('#videoIntro').width(960).height(576);
-                                        self.m_videoPlayer.play();
-                                    });
-                                })
-                            }, 250)
-
-                        }
+            $('#demo1').jstree({
+                'core': {
+                    "themes": {
+                        "name": "default-dark",
+                        "dots": true,
+                        "icons": true
                     },
-                    "xsl": "nest"
-                },
-                "plugins": ["themes", "xml_data", "ui", "crrm"],
-                // each plugin you have included can have its own config object
-                "core": {
-                    "animation": 100,
-                    "initially_open": ["phtml_1"]
-                },
-                // set a theme
-                "themes": {
-                    "theme": "photonui"
+                    'data': {
+                        "url": "/videoTutorials/_data/videos.json",
+                        "dataType": "json"
+                    }
                 }
-            })
+            }).on('changed.jstree', function (e, data) {
+                var url = data.node.original.url;
+                if (_.isUndefined(url))
+                    return;
+                $('#demo1').fadeOut('fast', function () {
+                    $('#videoPlayerContainer').fadeIn();
+                    $('#videoIntro').find('video:nth-child(1)').attr("src", url);
+                    $('#videoIntro').width(960).height(576);
+                    self.m_videoPlayer.play();
+                    $('#exitVideo').fadeIn();
+                });
+                // var i, j, r = [];
+                // for (i = 0, j = data.selected.length; i < j; i++) {
+                //     r.push(data.instance.get_node(data.selected[i]).text);
+                // }
+                // $('#event_result').html('Selected: ' + r.join(', '));
+            });
+
         }
     });
     return App;
