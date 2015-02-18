@@ -2996,6 +2996,7 @@
  * The XML data store. Datastores are build by overriding the `load_node` and `_is_loaded` functions.
  */
 (function ($) {
+    //https://code.google.com/p/jstree/issues/detail?id=907
 	$.vakata.xslt = function (xml, xsl, callback) {
 		var r = false, p, q, s;
 		// IE9

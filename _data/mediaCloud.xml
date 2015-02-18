@@ -3,35 +3,331 @@
 		<content><name><![CDATA[mediaCLOUD]]></name></content>
 		<item>
 		   <content><name><![CDATA[Start here]]></name></content>
-         <item><content><name videoURL="http://videos.signage.me/DSIntro.mp4"><![CDATA[Basic intro]]></name></content></item>
-         <item><content><name videoURL="http://videos.signage.me/Campaigns.mp4"><![CDATA[Intro to Campaigns]]></name></content></item>
-         <item><content><name videoURL="http://videos.signage.me/ScreenTypes.flv"><![CDATA[Screen Types]]></name></content></item>
-         <item><content><name videoURL="http://videos.signage.me/Scenes.mp4"><![CDATA[Intro to Scenes]]></name></content></item>
-         <item><content><name videoURL="http://videos.signage.me/SharedLibrary.mp4"><![CDATA[Shared Library]]></name></content></item>
+            <item>
+                <content><name videoid="StartHere" url="http://videos.signage.me/DSIntro.mp4"><![CDATA[Basic intro]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="campaigns" url="http://videos.signage.me/Campaigns.mp4"><![CDATA[Intro to Campaigns]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="ScreenTypes" url="http://videos.signage.me/ScreenTypes.mp4"><![CDATA[Screen Types]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="IntroToScns" url="http://videos.signage.me/Scenes.mp4"><![CDATA[Intro to Scenes]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="sharedLibrary" url="http://videos.signage.me/SharedLibrary.mp4"><![CDATA[Shared Library]]></name></content>
+            </item>
+		</item>
+
+		<item>
+		   <content><name><![CDATA[Studio components]]></name></content>
+            <item>
+                <content><name videoid="12" url="http://videos.signage.me/Weather.mp4"><![CDATA[Weather component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="14" url="http://videos.signage.me/Stocks.mp4"><![CDATA[Stock component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="16" url="http://videos.signage.me/rssMediaRSS.mp4"><![CDATA[RSS/News/Podcast component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="XML" url="http://videos.signage.me/XMLComponent.mp4"><![CDATA[XML Component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="Catalog" url="http://videos.signage.me/Catalog.mp4"><![CDATA[Catalog component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="Facebook" url="http://videos.signage.me/Facebook.mp4"><![CDATA[Facebook component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="TwitterComponent" url="http://videos.signage.me/TwitterV2.mp4"><![CDATA[Twitter component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="YouTube" url="http://videos.signage.me/YouTube.mp4"><![CDATA[YouTube component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="QR" url="http://videos.signage.me/QR.mp4"><![CDATA[QR Code component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="RemoteTouch" url="http://videos.signage.me/RemoteTouch.mp4"><![CDATA[RemoteTouch with Mobile]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="RemoteValues" url="http://videos.signage.me/RemoteValues.mp4"><![CDATA[Remote Values component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="RemoteCounter" url="http://videos.signage.me/RemoteCounter.mp4"><![CDATA[Remote Counter component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="Chat" url="http://videos.signage.me/Chat.mp4"><![CDATA[Chat component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="Countdown" url="http://videos.signage.me/countdown.mp4"><![CDATA[Countdown component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="Emergency" url="http://videos.signage.me/Emergency.mp4"><![CDATA[Emergency and Alerting]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="Collection" url="http://videos.signage.me/collection.mp4"><![CDATA[Collection component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="Form" url="http://videos.signage.me/Form.mp4"><![CDATA[Form component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="8" url="http://videos.signage.me/WebCam.mp4"><![CDATA[WebCam USB component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="10" url="http://videos.signage.me/HTML.mp4"><![CDATA[HTML component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="labelq" url="http://videos.signage.me/Labelq.mp4"><![CDATA[Label Queue]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="customRSS" url="http://videos.signage.me/customRSS.mp4"><![CDATA[Custom RSS component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="hdCapture" url="http://videos.signage.me/CaptureHD.mp4"><![CDATA[mediaTV component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="dateAndTime" url="http://videos.signage.me/datetime.mp4"><![CDATA[Date/Time/Clocks component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="powerPoint" url="http://videos.signage.me/powerpoint.mp4"><![CDATA[Power Point component]]></name></content>
+            </item>
+		</item>
+		<item>
+		   <content><name><![CDATA[Channels]]></name></content>
+            <item>
+                <content><name videoid="localChannel" url="http://videos.signage.me/localChannels.mp4"><![CDATA[Local Channels]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="commonChannel" url="http://videos.signage.me/commonChannels.mp4"><![CDATA[Common Channels]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="ContinousChannel" url="http://videos.signage.me/ContinuousChannel.mp4"><![CDATA[Continuous Channel]]></name></content>
+            </item>
+		</item>
+		<item>
+		   <content><name><![CDATA[Resources]]></name></content>
+            <item>
+                <content><name videoid="30" url="http://videos.signage.me/Resources.mp4"><![CDATA[Use media files]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="32" url="http://videos.signage.me/ExternalResources.mp4"><![CDATA[External resources]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="bgmask" url="http://videos.signage.me/BackMask.mp4"><![CDATA[Backgrounds and Masks]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="Content" url="http://videos.signage.me/Content.mp4"><![CDATA[Content creation]]></name></content>
+            </item>
+		</item>
+		<item>
+		   <content><name><![CDATA[Sequence / Scheduler]]></name></content>
+            <item>
+                <content><name videoid="50" url="http://videos.signage.me/Sequences.mp4"><![CDATA[Timeline Sequencer]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="campaignSched" url="http://videos.signage.me/Scheduler.mp4"><![CDATA[Timeline  Scheduler]]></name></content>
+            </item>
+		</item>
+		<item>
+		   <content><name><![CDATA[Players]]></name></content>
+            <item>
+                <content><name videoid="60" url="http://videos.signage.me/SignagePlayer.mp4"><![CDATA[Desktop Player]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="embeddedPlayer" url="http://videos.signage.me/EmbeddedPlayer.mp4"><![CDATA[Embedded Player]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="AndroidPlayer" url="http://videos.signage.me/AndroidMultiScreen.mp4"><![CDATA[Android Player]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="mediaDROID" url="http://videos.signage.me/mediaDROID.mp4"><![CDATA[mediaDROID]]></name></content>
+            </item>
+		</item>
+		<item>
+		   <content><name><![CDATA[Internet of things]]></name></content>
+            <item>
+                <content><name videoid="vera" url="http://videos.signage.me/iotVera.mp4"><![CDATA[IOT Vera]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="arduino" url="http://videos.signage.me/arduinoYun.mp4"><![CDATA[IOT Arduino Yun]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="RemoteTouch" url="http://videos.signage.me/RemoteTouch.mp4"><![CDATA[RemoteTouch with Mobile]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="RemotePad" url="http://videos.signage.me/RemotePad.mp4"><![CDATA[RemotePad with Mobile]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="RemoteValues" url="http://videos.signage.me/RemoteValues.mp4"><![CDATA[Remote Values component]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="EventsTriggers" url="http://videos.signage.me/EventsTriggers.mp4"><![CDATA[Events and Triggers]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="Scripts" url="http://videos.signage.me/Scriping.mp4"><![CDATA[Scripting]]></name></content>
+            </item>
+		</item>
+		<item>
+		   <content><name><![CDATA[Tips and Tricks]]></name></content>
+            <item>
+                <content><name videoid="updatePlayers" url="http://videos.signage.me/updatePlayers.mp4"><![CDATA[Update remote Players]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="ContinousChannel" url="http://videos.signage.me/ContinuousChannel.mp4"><![CDATA[Continuous Channel]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="copyPaste" url="http://videos.signage.me/CopyPaste.mp4"><![CDATA[Copy/Paste between accounts]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="HTMLCrop" url="http://videos.signage.me/HTMLCrop.mp4"><![CDATA[Cropping HTML web site]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="Multi" url="http://videos.signage.me/MultiFunctions.mp4"><![CDATA[Multi selection / alignments]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="folderFilterv2" url="http://videos.signage.me/FolderFilter.mp4"><![CDATA[Folder and Filters]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="perspective" url="http://videos.signage.me/perspective.mp4"><![CDATA[Resource perspective]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="chprops" url="http://videos.signage.me/chprops.mp4"><![CDATA[Channel properties]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="globalscenes" url="http://videos.signage.me/globalscenes.mp4"><![CDATA[Global Scene]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="thumbnails" url="http://videos.signage.me/thumbnails.mp4"><![CDATA[Resource Thumbnail]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="viewlevel" url="http://videos.signage.me/viewlevel.mp4"><![CDATA[Screen Division levels]]></name></content>
+            </item>
+		</item>
+		<item>
+		   <content><name><![CDATA[Advertising]]></name></content>
+            <item>
+                <content><name videoid="ProofOfPlay" url="http://videos.signage.me/ProofOfPlay.mp4"><![CDATA[Proof of play]]></name></content>
+            </item>
+            <item>
+                <content><name videoid="ProofOfDisplay" url="http://videos.signage.me/proofofdisplay.mp4"><![CDATA[Proof of display]]></name></content>
+            </item>
+		</item>
+		<item>
+		   <content><name><![CDATA[Open Source Signage]]></name></content>
+            <item>
+                <content><name videoid="opensource" url="http://videos.signage.me/StudioLiteSDK.mp4"><![CDATA[Open source (Pepper)]]></name></content>
+            </item>
+		</item>
+		<item>
+		   <content><name><![CDATA[Advanced]]></name></content>
+		   <item>
+             <content><name videoid="IntroExtApplication" url="http://videos.signage.me/ExternalApplicationIntro.mp4"><![CDATA[Intro]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="hdCaptureExtApp" url="http://videos.signage.me/CaptureHD.mp4"><![CDATA[Capture/Live HD TV]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="FireFox" url="http://videos.signage.me/ExternalApplicationFireFox.mp4"><![CDATA[FireFox]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="VLC" url="http://videos.signage.me/ExternalApplicationVLC.mp4"><![CDATA[VLC]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="powerPointExtApp" url="http://videos.signage.me/powerpoint.mp4"><![CDATA[PowerPoint]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="Transition" url="http://videos.signage.me/Transition.mp4"><![CDATA[Transition effect]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="EventsTriggers" url="http://videos.signage.me/EventsTriggers.mp4"><![CDATA[Events and Triggers]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="Scripts" url="http://videos.signage.me/Scriping.mp4"><![CDATA[Scripting]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="VideoWall" url="http://videos.signage.me/VideoWall.mp4"><![CDATA[Video wall setup]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="PowerSavings" url="http://videos.signage.me/PowerSavings.mp4"><![CDATA[Power Savings]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="ServerConnection" url="http://videos.signage.me/ServerConnections.mp4"><![CDATA[Server connections]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="LinuxInstall" url="http://videos.signage.me/LinuxInstall.mp4"><![CDATA[Linux Installation]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="Mac" url="http://videos.signage.me/Mac.mp4"><![CDATA[Mac Installation]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="OfflineUpdater" url="http://videos.signage.me/OfflineUpdate.mp4"><![CDATA[Offline Updater (SneakerNet)]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="kiosk" url="http://videos.signage.me/Kiosk.mp4"><![CDATA[Kiosk]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="MultiScreen" url="http://videos.signage.me/MultiOutput.mp4"><![CDATA[Multi Output]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="SignageScreenSaver" url="http://videos.signage.me/InteruptMode.mp4"><![CDATA[Interrupt mode]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="music" url="http://videos.signage.me/MusicPlayer.mp4"><![CDATA[Music Player]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="VideoConversion" url="http://videos.signage.me/VideoConversion.mp4"><![CDATA[Video Conversion]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="localization" url="http://videos.signage.me/Localization.mp4"><![CDATA[Localization]]></name></content>
+         </item>
 		</item>
 	</item>
-
 	<item>
 		<content><name><![CDATA[Enterprise]]></name></content>
-		<item>
-			<content><name><![CDATA[Get Started]]></name></content>
-		</item>
-		<item>
-		   <content><name><![CDATA[Get Started]]></name></content>
-      </item>
+         <item>
+             <content><name videoid="StartHere" url="http://videos.signage.me/Resellers.mp4"><![CDATA[Reseller Program intro]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="managingUsers" url="http://videos.signage.me/ManagingUsers.mp4"><![CDATA[Manage users]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="manageBusinesses" url="http://videos.signage.me/ManageBusinesses.mp4"><![CDATA[Manage Businesses]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="multiUsers" url="http://videos.signage.me/MultiUsers.mp4"><![CDATA[Multi user support]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="privileges" url="http://videos.signage.me/Privileges.mp4"><![CDATA[Managed Privileges]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="accessKeys" url="http://videos.signage.me/AccessKeys.mp4"><![CDATA[Access keys]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="witeLabel" url="http://videos.signage.me/WhiteLabel.mp4"><![CDATA[White Label / Branding]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="copyPaste" url="http://videos.signage.me/CopyPaste.mp4"><![CDATA[Copy/Paste between accounts]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="sharedLibrary" url="http://videos.signage.me/SharedLibrary.mp4"><![CDATA[Shared Library]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="ProofOfPlay" url="http://videos.signage.me/ProofOfPlay.mp4"><![CDATA[Proof of play]]></name></content>
+         </item>
 	</item>
-
-
 	<item>
 		<content><name><![CDATA[mediaSERVER]]></name></content>
-		<item>
-			<content><name><![CDATA[Get Started]]></name></content>
-		</item>
-		<item>
-		   <content><name><![CDATA[Get Started]]></name></content>
-      </item>
+         <item>
+             <content><name videoid="mediaServerInstall" url="http://videos.signage.me/mediaServerInstall.mp4"><![CDATA[mediaSERVER install]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="mediaServerPlayerStudio" url="http://videos.signage.me/mediaServerStudioPlayer.mp4"><![CDATA[Player and Studio setup]]></name></content>
+         </item>
+         <item>
+             <content><name videoid="mediaServerAddLicenes" url="http://videos.signage.me/mediaServerLicenes.mp4"><![CDATA[Add Licenses]]></name></content>
+         </item>
 	</item>
-
-
-
 </root>

@@ -13,6 +13,7 @@ require.config({
         'backbone': '_common/_js/backbone/backbone',
         'text': '_common/_js/requirejs/text',
         'backbone.controller': '_common/_js/backbone-controller/backbone.controller',
+        'video': '_common/_js/video/video.dev',
         'RC4': '_common/_js/rc4/RC4',
         'Lib': '_libs/Lib',
         'bootbox': '_common/_js/bootbox/bootbox',
