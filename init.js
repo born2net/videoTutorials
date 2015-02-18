@@ -14,6 +14,7 @@ require.config({
         'text': '_common/_js/requirejs/text',
         'backbone.controller': '_common/_js/backbone-controller/backbone.controller',
         'video': '_common/_js/video/video.dev',
+        'videospeed': '_common/_js/video/video-speed',
         'RC4': '_common/_js/rc4/RC4',
         'Lib': '_libs/Lib',
         'bootbox': '_common/_js/bootbox/bootbox',
@@ -36,7 +37,6 @@ require.config({
         'MailWasp': '_controllers/MailWasp',
         'EverNodes': '_controllers/EverNodes',
         'StackView': '_libs/StackView'
-
     },
 
     shim: {
@@ -53,6 +53,9 @@ require.config({
         'easing': {
             deps: ['jquery'],
             exports: 'jQuery.easing'
+        },
+        'videospeed': {
+            deps: ['video'],
         },
         'jstree': {
             deps: ['jquery'],

@@ -6,7 +6,7 @@
  @return {Object} instantiated App
  **/
 
-define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'easing', 'jstree', 'video'], function (_, Backbone, backbonecontroller, Lib, easing, jstree, videojs) {
+define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'easing', 'jstree', 'video', 'videospeed'], function (_, Backbone, backbonecontroller, Lib, easing, jstree, videojs, videospeed) {
     var App = Backbone.Controller.extend({
 
         // app init
@@ -31,7 +31,19 @@ define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'easing', 'jstre
 
         _initVideo: function () {
             var self = this;
-            videojs(BB.lib.unhash('videoIntro')).ready(function () {
+            videojs(BB.lib.unhash('videoIntro'),{
+                controls: true,
+                autoplay: false,
+                preload: 'auto',
+                plugins: {
+                    speed: [
+                        {text: '2', rate: 2, selected: true},
+                        {text: '1', rate: 1},
+                        {text: '4', rate: 4},
+                        {text: '8', rate: 8}
+                    ]
+                }
+            }).ready(function () {
                 self.m_videoPlayer = this;
                 $('#videoIntro').width(1000).height(600);
                 self.m_videoPlayer.load();
