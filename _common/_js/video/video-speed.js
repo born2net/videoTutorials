@@ -23,6 +23,7 @@ videojs.plugin('speed', function(options) {
             this.on('click', this.onClick);
         }
     });
+
     videojs.SpeedMenuItem.prototype.onClick = function(e) {
         for (var i = 0, l = items.length; i < l; i++) {
             items[i].selected(false);

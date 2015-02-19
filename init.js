@@ -9,7 +9,8 @@ require.config({
     paths: {
         'jquery': '_common/_jquery/std/jq1.9.1/jquery-1.9.1',
         'easing': '_common/_jquery/easing/easing',
-        'jstree': '_common/_js/jstree/src/jstree',
+        'jstree': '_common/_js/jstree/dist/jstree',
+        'jstreesearch': '_common/_js/jstree/src/jstree.search',
         'backbone': '_common/_js/backbone/backbone',
         'text': '_common/_js/requirejs/text',
         'backbone.controller': '_common/_js/backbone-controller/backbone.controller',
@@ -36,7 +37,10 @@ require.config({
         'LayoutRouter': '_controllers/LayoutRouter',
         'MailWasp': '_controllers/MailWasp',
         'EverNodes': '_controllers/EverNodes',
-        'StackView': '_libs/StackView'
+        'StackView': '_libs/StackView',
+        'HistoryView': '_views/HistoryView',
+        'VideoDetailsView': '_views/VideoDetailsView',
+        'StartHereView': '_views/StartHereView'
     },
 
     shim: {
@@ -55,10 +59,14 @@ require.config({
             exports: 'jQuery.easing'
         },
         'videospeed': {
-            deps: ['video'],
+            deps: ['video']
         },
         'jstree': {
             deps: ['jquery'],
+            exports: 'jstree'
+        },
+        'jstreesearch': {
+            deps: ['jstree'],
             exports: 'jstree'
         },
         'underscore': {
