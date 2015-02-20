@@ -13,6 +13,9 @@ define(['jquery', 'backbone', 'StackView'], function ($, Backbone, StackView) {
          **/
         initialize: function () {
             var self = this;
+            $('#videoPlayBegin').on('click',function(){
+                BB.comBroker.getService('APP').playIntroVideo();
+            })
         }
     });
 

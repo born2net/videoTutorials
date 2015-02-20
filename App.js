@@ -6,7 +6,7 @@
  @return {Object} instantiated App
  **/
 
-define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'ComBroker', 'easing', 'jstreesearch', 'video', 'videospeed'], function (_, Backbone, backbonecontroller, Lib, ComBroker, easing, jstreesearch, videojs, videospeed) {
+define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'ComBroker', 'easing', 'jstreesearch', 'video', 'videospeed', 'simplestorage'], function (_, Backbone, backbonecontroller, Lib, ComBroker, easing, jstreesearch, videojs, videospeed, simplestorage) {
     var App = Backbone.Controller.extend({
 
         // app init
@@ -22,6 +22,7 @@ define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'ComBroker', 'ea
             BB.comBroker = new ComBroker();
             BB.comBroker.name = 'AppBroker';
             window.log = BB.lib.log;
+            self.m_videoLinks = {};
             $.ajaxSetup({cache: false});
             $.ajaxSetup({
                 headers: {'Authorization': 'no_pass'}
@@ -33,6 +34,8 @@ define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'ComBroker', 'ea
             self._listenSearch();
             self._listenTreeState();
             self._listenCloseVideo();
+
+            BB.comBroker.setService('APP', self);
         },
 
         _initViews: function () {
@@ -49,9 +52,9 @@ define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'ComBroker', 'ea
                 self.m_stackView.addView(self.m_videoDetailsView);
 
                 self.m_stackView.selectView(self.m_startHereView);
+                BB.comBroker.setService('PanelStack', self.m_stackView);
 
             });
-
 
 
         },
@@ -121,6 +124,19 @@ define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'ComBroker', 'ea
             });
         },
 
+        _buildVideoLinks: function (i_data) {
+            var self = this;
+            if (i_data['children'])
+                return self._buildVideoLinks(i_data['children']);
+            _.forEach(i_data, function (i, k) {
+                if (i['children']) {
+                    self._buildVideoLinks(i['children']);
+                } else {
+                    self.m_videoLinks[i.url] = i['text'];
+                }
+            });
+        },
+
         _initTree: function () {
             var self = this;
             $('#videoTree').jstree({
@@ -129,7 +145,7 @@ define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'ComBroker', 'ea
                     search_callback: function (str, node) {
                         if (str.length < 3)
                             return false;
-                        var re = new RegExp(str, 'i')
+                        var re = new RegExp(str, 'i');
                         return node.text.search(re) == -1 ? false : true;
                     }
                 },
@@ -141,6 +157,9 @@ define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'ComBroker', 'ea
                     },
                     'data': {
                         "url": "/videoTutorials/_data/videos.json",
+                        "success": function (e) {
+                            self._buildVideoLinks(e);
+                        },
                         "dataType": "json"
                     }
                 }
@@ -148,12 +167,8 @@ define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'ComBroker', 'ea
                 var url = data.node.original.url;
                 if (_.isUndefined(url))
                     return;
-                $('.hideOnPlay').fadeOut('fast', function () {
-                    $('#videoPlayerContainer').fadeIn();
-                    $('#videoIntro').find('video:nth-child(1)').attr("src", url);
-                    $('#videoIntro').width(960).height(576);
-                    self.m_videoPlayer.play();
-                    $('#exitVideo').fadeIn();
+                $('.hideOnPlay').fadeOut('fast').promise().done(function () {
+                    self.playUrl(url);
                 });
                 // var i, j, r = [];
                 // for (i = 0, j = data.selected.length; i < j; i++) {
@@ -163,6 +178,37 @@ define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'ComBroker', 'ea
             }).on('ready.jstree', function (e, data) {
                 data.instance.search("search");
             });
+        },
+
+        playUrl: function (i_url) {
+            var self = this;
+            var recentVideos = simplestorage.get('recentVideos');
+            if (_.isUndefined(recentVideos))
+                recentVideos = [];
+            if (recentVideos.length > 20)
+                recentVideos.shift();
+            recentVideos.push(i_url);
+            simplestorage.set('recentVideos', recentVideos);
+            $('.hideOnPlay').fadeOut('fast', function () {
+                $('#videoPlayerContainer').fadeIn();
+                $('#videoIntro').find('video:nth-child(1)').attr("src", i_url);
+                $('#videoIntro').width(960).height(576);
+                self.m_videoPlayer.play();
+                $('#exitVideo').fadeIn();
+                var historyView = BB.comBroker.getService('HISTORY_VIEW');
+                if (historyView)
+                    historyView.refreshList();
+            });
+        },
+
+        playIntroVideo: function () {
+            var self = this;
+            self.playUrl('http://videos.signage.me/DSIntro.mp4');
+        },
+
+        getVideoLinks: function(){
+            var self = this;
+            return self.m_videoLinks;
         }
     });
 
