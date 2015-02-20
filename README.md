@@ -14,3 +14,5 @@ The HTML5 widget component may be hosted on an enterprise member's web site to p
  - Playback history
  - Customizable HTML / CSS. Use the file: http://www.digitalsignage.com/_html/signage_video.html
 
+
+<img src="http://www.digitalsignage.com/_images/VideoTutSS.png"></img>
