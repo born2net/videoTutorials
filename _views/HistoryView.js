@@ -41,9 +41,8 @@ define(['jquery', 'backbone', 'simplestorage'], function ($, Backbone, simplesto
             $('#recentViews').empty();
             var videoLinks = BB.comBroker.getService('APP').getVideoLinks();
             _.forEach(_.sortBy(recentVideo).reverse(), function (v) {
-                log(v);
                 if (videoLinks[v]){
-                    $('#recentViews').append('<li class="historyLinks" data-url="' + v + '">'+ videoLinks[v] + '</li>')
+                    $('#recentViews').append('<li class="historyLinks" data-url="' + v + '">'+ videoLinks[v].label + '</li>')
                 }
             });
             self._listenVideoSelected();

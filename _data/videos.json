@@ -38,7 +38,7 @@
             {"text": "Chat component", "url": "http://videos.signage.me/Chat.mp4", "videoid": "Chat","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Countdown component", "url": "http://videos.signage.me/countdown.mp4", "videoid": "Countdown","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Emergency and Alerting", "url": "http://videos.signage.me/Emergency.mp4", "videoid": "Emergency","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Collection component", "url": "http://videos.signage.me/collection.mp4", "videoid": "Collection","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Collection component", "url": "http://videos.signage.me/Collection.mp4", "videoid": "Collection","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Form component", "url": "http://videos.signage.me/Form.mp4", "videoid": "Form","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "WebCam USB component", "url": "http://videos.signage.me/WebCam.mp4", "videoid": "8","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "HTML component", "url": "http://videos.signage.me/HTML.mp4", "videoid": "10","icon" : "/videoTutorials/_assets/tree_icon.png"},
@@ -97,7 +97,6 @@
         {
           "text": "Tips and tricks",
           "children": [
-            {"text": "Update remote Players", "url": "http://videos.signage.me/updatePlayers.mp4", "videoid": "updatePlayers","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Continuous Channel", "url": "http://videos.signage.me/ContinuousChannel.mp4", "videoid": "ContinousChannel","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Copy/Paste between accounts", "url": "http://videos.signage.me/CopyPaste.mp4", "videoid": "copyPaste","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Cropping HTML web site", "url": "http://videos.signage.me/HTMLCrop.mp4", "videoid": "HTMLCrop","icon" : "/videoTutorials/_assets/tree_icon.png"},

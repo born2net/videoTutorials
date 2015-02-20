@@ -6,6 +6,9 @@
  @return {Object} instantiated App
  **/
 
+// removed
+// {"text": "Update remote Players", "url": "http://videos.signage.me/updatePlayers.mp4", "videoid": "updatePlayers","icon" : "/videoTutorials/_assets/tree_icon.png"},
+
 define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'ComBroker', 'easing', 'jstreesearch', 'video', 'videospeed', 'simplestorage'], function (_, Backbone, backbonecontroller, Lib, ComBroker, easing, jstreesearch, videojs, videospeed, simplestorage) {
     var App = Backbone.Controller.extend({
 
@@ -34,8 +37,24 @@ define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'ComBroker', 'ea
             self._listenSearch();
             self._listenTreeState();
             self._listenCloseVideo();
+            self._listenOpenDirectLink();
 
             BB.comBroker.setService('APP', self);
+        },
+
+        _listenOpenDirectLink: function(){
+            var self = this;
+            document.onkeypress = function (e) {
+                e = e || window.event;
+                if (e.keyCode!=96)
+                    return;
+                var recentVideos = simplestorage.get('recentVideos');
+                if (_.isUndefined(recentVideos))
+                    return;
+                var url = recentVideos[recentVideos.length-1];
+                var videoID = self.m_videoLinks[url].videoid;
+                window.open('http://www.digitalsignage.com/_html/video_tutorials.html?videoNumber=' + videoID,'_blank')
+            };
         },
 
         _initViews: function () {
@@ -132,7 +151,10 @@ define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'ComBroker', 'ea
                 if (i['children']) {
                     self._buildVideoLinks(i['children']);
                 } else {
-                    self.m_videoLinks[i.url] = i['text'];
+                    self.m_videoLinks[i.url] = {
+                        label: i['text'],
+                        videoid: i['videoid']
+                    };
                 }
             });
         },
@@ -177,6 +199,23 @@ define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'ComBroker', 'ea
                 // $('#event_result').html('Selected: ' + r.join(', '));
             }).on('ready.jstree', function (e, data) {
                 data.instance.search("search");
+                var link = window.location.href;
+                var res = link.match(/(videoNumber=)([^\@]*)/);
+                if (res){
+                    self._autoPlay(res[2]);
+                }
+            });
+        },
+
+        _autoPlay: function(i_videoid) {
+            var self = this;
+            var done = 0;
+            _.forEach(self.m_videoLinks,function(i,url){
+                if (done) return;
+                if (i.videoid == i_videoid){
+                    done = 1;
+                    self.playUrl(url);
+                }
             });
         },
 
