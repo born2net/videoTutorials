@@ -14,7 +14,7 @@ require.config({
         'backbone': '_common/_js/backbone/backbone',
         'text': '_common/_js/requirejs/text',
         'backbone.controller': '_common/_js/backbone-controller/backbone.controller',
-        'video': '_common/_js/video/video.dev',
+        'video': '_common/_js/video/video',
         'videospeed': '_common/_js/video/video-speed',
         'RC4': '_common/_js/rc4/RC4',
         'Lib': '_libs/Lib',

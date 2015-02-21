@@ -101,6 +101,9 @@ define(['underscore', 'backbone', 'backbone.controller', 'Lib', 'ComBroker', 'ea
                 $('#videoTree').jstree(true).search(v);
             }, 500);
             $('#searchTree').on('keyup', f);
+            $('#searchTree').on('focus', function(){
+                $(this).val('').css({color: 'white'});
+            });
         },
 
         _initVideo: function () {
