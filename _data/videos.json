@@ -31,6 +31,7 @@
             {"text": "Facebook component", "url": "http://videos.signage.me/Facebook.mp4", "videoid": "Facebook","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Twitter component", "url": "http://videos.signage.me/TwitterV2.mp4", "videoid": "TwitterComponent","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "YouTube component", "url": "http://videos.signage.me/YouTube.mp4", "videoid": "YouTube","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Digg component", "url": "http://videos.signage.me/digg.mp4", "videoid": "Digg","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "QR Code component", "url": "http://videos.signage.me/QR.mp4", "videoid": "QR","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "RemoteTouch with Mobile", "url": "http://videos.signage.me/RemoteTouch.mp4", "videoid": "RemoteTouch","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Remote Values component", "url": "http://videos.signage.me/RemoteValues.mp4", "videoid": "RemoteValues","icon" : "/videoTutorials/_assets/tree_icon.png"},
@@ -42,8 +43,10 @@
             {"text": "Form component", "url": "http://videos.signage.me/Form.mp4", "videoid": "Form","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "WebCam USB component", "url": "http://videos.signage.me/WebCam.mp4", "videoid": "8","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "HTML component", "url": "http://videos.signage.me/HTML.mp4", "videoid": "10","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Browser component", "url": "http://videos.signage.me/Browser.mp4", "videoid": "Browser","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Label Queue", "url": "http://videos.signage.me/Labelq.mp4", "videoid": "labelq","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Custom RSS component", "url": "http://videos.signage.me/customRSS.mp4", "videoid": "customRSS","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "FasterQ line management", "url": "http://videos.signage.me/FasterQ.mp4", "videoid": "FasterQ","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "mediaTV component", "url": "http://videos.signage.me/CaptureHD.mp4", "videoid": "hdCapture","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Date/Time/Clocks component", "url": "http://videos.signage.me/datetime.mp4", "videoid": "dateAndTime","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Power Point component", "url": "http://videos.signage.me/powerpoint.mp4", "videoid": "powerPoint" ,"icon" : "/videoTutorials/_assets/tree_icon.png"}
@@ -119,7 +122,10 @@
         {
           "text": "Open source Signage",
           "children": [
-            {"text": "Open source (Pepper)", "url": "http://videos.signage.me/StudioLiteSDK.mp4", "videoid": "opensource","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "HTML SDK Intro (part 1)", "url": "http://videos.signage.me/html_sdk_part1.mp4", "videoid": "htmlSdkIntro","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "HTML SDK API (part 2)", "url": "http://videos.signage.me/html_sdk_part2.mp4", "videoid": "htmlSdkAPI","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "HTML SDK Debug/Config (part 3)", "url": "http://videos.signage.me/html_sdk_part3.mp4", "videoid": "htmlSdkDebug","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "StudioLite SDK (Pepper)", "url": "http://videos.signage.me/StudioLiteSDK.mp4", "videoid": "opensource","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
         {
@@ -170,6 +176,15 @@
         {"text": "mediaSERVER install", "url": "http://videos.signage.me/mediaServerInstall.mp4", "videoid": "mediaServerInstall","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Player and Studio setup", "url": "http://videos.signage.me/mediaServerStudioPlayer.mp4", "videoid": "mediaServerPlayerStudio","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Add Licenses", "url": "http://videos.signage.me/mediaServerLicenes.mp4", "videoid": "mediaServerAddLicenes","icon" : "/videoTutorials/_assets/tree_icon.png"}
+      ]
+    },
+    {
+      "text": "StudioLite",
+      "children": [
+        {"text": "Intro to StudioLite", "url": "https://galaxy.signage.me/_studiolite-dist/StudioLite.mp4", "videoid": "studioLite","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Advanced StudioLite", "url": "https://galaxy.signage.me/_studiolite-dist/StudioLiteAdv.mp4", "videoid": "advStudioLite","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Sequencer vs Scheduler", "url": "https://galaxy.signage.me/_studiolite-dist/LiteSeqVsSched.mp4", "videoid": "seqVsSched","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "FasterQ line management", "url": "http://videos.signage.me/FasterQ.mp4", "videoid": "FasterQ","icon" : "/videoTutorials/_assets/tree_icon.png"}
       ]
     }
   ]
