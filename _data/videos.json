@@ -28,7 +28,7 @@
             {"text": "RSS/News/Podcast component", "url": "http://videos.signage.me/rssMediaRSS.mp4", "videoid": "16","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "XML Component", "url": "http://videos.signage.me/XMLComponent.mp4", "videoid": "XML","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Catalog component", "url": "http://videos.signage.me/Catalog.mp4", "videoid": "Catalog","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Facebook component", "url": "http://videos.signage.me/Facebook.mp4", "videoid": "Facebook","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Facebook component", "url": "http://videos.signage.me/Facebookv2.mp4", "videoid": "Facebookv2","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Twitter component", "url": "http://videos.signage.me/TwitterV2.mp4", "videoid": "TwitterComponent","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "YouTube component", "url": "http://videos.signage.me/YouTube.mp4", "videoid": "YouTube","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Digg component", "url": "http://videos.signage.me/digg.mp4", "videoid": "Digg","icon" : "/videoTutorials/_assets/tree_icon.png"},
