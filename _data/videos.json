@@ -34,6 +34,7 @@
             {"text": "Twitter component", "url": "http://videos.signage.me/TwitterV2.mp4", "videoid": "TwitterComponent","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Google Calendar component", "url": "http://videos.signage.me/Calendar.mp4", "videoid": "Calendar","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Google Picasa component", "url": "http://videos.signage.me/Picasa.mp4", "videoid": "Picasa","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Google Plus component", "url": "http://videos.signage.me/GooglePlus.mp4", "videoid": "GooglePlus","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "YouTube component", "url": "http://videos.signage.me/YouTube.mp4", "videoid": "YouTube","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Digg component", "url": "http://videos.signage.me/digg.mp4", "videoid": "Digg","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "QR Code component", "url": "http://videos.signage.me/QR.mp4", "videoid": "QR","icon" : "/videoTutorials/_assets/tree_icon.png"},
