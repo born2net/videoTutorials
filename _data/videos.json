@@ -39,6 +39,7 @@
             {"text": "Google Plus component", "url": "http://videos.signage.me/GooglePlus.mp4", "videoid": "GooglePlus","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "YouTube component", "url": "http://videos.signage.me/YouTube.mp4", "videoid": "YouTube","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Instagram component", "url": "http://videos.signage.me/Instagram.mp4", "videoid": "Instagram","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Tumblr component", "url": "http://videos.signage.me/Tumblr.mp4", "videoid": "Tumblr","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Digg component", "url": "http://videos.signage.me/digg.mp4", "videoid": "Digg","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "QR Code component", "url": "http://videos.signage.me/QR.mp4", "videoid": "QR","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "RemoteTouch with Mobile", "url": "http://videos.signage.me/RemoteTouch.mp4", "videoid": "RemoteTouch","icon" : "/videoTutorials/_assets/tree_icon.png"},
