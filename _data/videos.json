@@ -17,7 +17,8 @@
             {"text": "Intro to Campaigns", "url": "http://videos.signage.me/Campaigns.mp4", "videoid": "campaigns","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Screen Types", "url": "http://videos.signage.me/ScreenTypes.mp4", "videoid": "ScreenTypes","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Intro to Scenes", "url": "http://videos.signage.me/Scenes.mp4", "videoid": "IntroToScns","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Shared Library", "url": "http://videos.signage.me/SharedLibrary.mp4", "videoid": "sharedLibrary","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Shared Library", "url": "http://videos.signage.me/SharedLibrary.mp4", "videoid": "sharedLibrary","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "The mediaDROIDX", "url": "http://videos.signage.me/mediadroidXIntro.mp4", "videoid": "mediadroidx","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
         {
@@ -38,7 +39,6 @@
             {"text": "Google Calendar component", "url": "http://videos.signage.me/Calendar.mp4", "videoid": "Calendar","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Google Picasa component", "url": "http://videos.signage.me/Picasa.mp4", "videoid": "Picasa","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Google Plus component", "url": "http://videos.signage.me/GooglePlus.mp4", "videoid": "GooglePlus","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "YouTube component", "url": "http://videos.signage.me/YouTube.mp4", "videoid": "YouTube","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "YouTube component", "url": "http://videos.signage.me/YouTube.mp4", "videoid": "YouTube","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Instagram component", "url": "http://videos.signage.me/Instagram.mp4", "videoid": "Instagram","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Tumblr component", "url": "http://videos.signage.me/Tumblr.mp4", "videoid": "Tumblr","icon" : "/videoTutorials/_assets/tree_icon.png"},
