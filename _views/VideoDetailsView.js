@@ -1,5 +1,5 @@
 /**
- @class VideoDetailsView
+ @class VideoDetails View
  @constructor
  @return {object} instantiated VideoDetailsView
  **/
