@@ -181,6 +181,7 @@
         {"text": "Managed Privileges", "url": "http://videos.signage.me/Privileges.mp4", "videoid": "privileges","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Access keys", "url": "http://videos.signage.me/AccessKeys.mp4", "videoid": "accessKeys","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "White Label / Branding", "url": "http://videos.signage.me/WhiteLabel.mp4", "videoid": "witeLabel","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Host Get started", "url": "http://videos.signage.me/msGetStarted.mp4", "videoid": "msgetstarted","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Copy/Paste between accounts", "url": "http://videos.signage.me/CopyPaste.mp4", "videoid": "copyPaste","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Shared Library", "url": "http://videos.signage.me/SharedLibrary.mp4", "videoid": "sharedLibrary","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Proof of play", "url": "http://videos.signage.me/ProofOfPlay.mp4", "videoid": "ProofOfPlay","icon" : "/videoTutorials/_assets/tree_icon.png"}
@@ -200,6 +201,7 @@
         {"text": "Intro to StudioLite", "url": "https://galaxy.signage.me/_studiolite-dist/StudioLite.mp4", "videoid": "studioLite","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Advanced StudioLite", "url": "https://galaxy.signage.me/_studiolite-dist/StudioLiteAdv.mp4", "videoid": "advStudioLite","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Sequencer vs Scheduler", "url": "https://galaxy.signage.me/_studiolite-dist/LiteSeqVsSched.mp4", "videoid": "seqVsSched","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Collection component", "url": "https://galaxy.signage.me/_studiolite-dist/LiteCollection.mp4", "videoid": "collection","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "FasterQ line management", "url": "http://videos.signage.me/FasterQ.mp4", "videoid": "FasterQ","icon" : "/videoTutorials/_assets/tree_icon.png"}
       ]
     }
