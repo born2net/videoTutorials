@@ -131,8 +131,8 @@
         {
           "text": "Advertising",
           "children": [
-            {"text": "Proof of play", "url": "http://videos.signage.me/ProofOfPlay.mp4", "videoid": "ProofOfPlay","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Proof of display", "url": "http://videos.signage.me/proofofdisplay.mp4", "videoid": "ProofOfDisplay","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Proof of play", "url": "http://videos.signage.me/ProofOfPlay.mp4", "videoid": "ProofOfPlay","icon" : "/videoTutorials/_assets/tree_icon.png"}
+
           ]
         },
         {
