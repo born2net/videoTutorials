@@ -14,6 +14,7 @@
           "text": "Start here",          
           "children": [
             {"text": "Basic intro", "url": "http://videos.signage.me/DSIntro.mp4", "videoid": "StartHere","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Feature intro", "url": "http://videos.signage.me/MediaSignageFeatures.mp4", "videoid": "FeaturesIntro","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Intro to Campaigns", "url": "http://videos.signage.me/Campaigns.mp4", "videoid": "campaigns","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Screen Types", "url": "http://videos.signage.me/ScreenTypes.mp4", "videoid": "ScreenTypes","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Intro to Scenes", "url": "http://videos.signage.me/Scenes.mp4", "videoid": "IntroToScns","icon" : "/videoTutorials/_assets/tree_icon.png"},
@@ -37,6 +38,7 @@
             {"text": "Dropbox component", "url": "http://videos.signage.me/Dropbox.mp4", "videoid": "Dropbox","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Google Drive component", "url": "http://videos.signage.me/GoogleDrive.mp4", "videoid": "GoogleDrive","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Google Calendar component", "url": "http://videos.signage.me/Calendar.mp4", "videoid": "Calendar","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Google Sheets component", "url": "http://videos.signage.me/GoogleSheets.mp4", "videoid": "GoogleSheets","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Google Picasa component", "url": "http://videos.signage.me/Picasa.mp4", "videoid": "Picasa","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Google Plus component", "url": "http://videos.signage.me/GooglePlus.mp4", "videoid": "GooglePlus","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "YouTube component", "url": "http://videos.signage.me/YouTube.mp4", "videoid": "YouTube","icon" : "/videoTutorials/_assets/tree_icon.png"},
@@ -62,6 +64,7 @@
             {"text": "Browser component", "url": "http://videos.signage.me/Browser.mp4", "videoid": "Browser","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Label Queue", "url": "http://videos.signage.me/Labelq.mp4", "videoid": "labelq","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Custom RSS component", "url": "http://videos.signage.me/customRSS.mp4", "videoid": "customRSS","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Location based", "url": "http://videos.signage.me/LocationBasedPro.mp4", "videoid": "locationBasedPro","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "FasterQ line management", "url": "http://videos.signage.me/FasterQ.mp4", "videoid": "FasterQ","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "mediaTV component", "url": "http://videos.signage.me/CaptureHD.mp4", "videoid": "hdCapture","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Date/Time/Clocks component", "url": "http://videos.signage.me/datetime.mp4", "videoid": "dateAndTime","icon" : "/videoTutorials/_assets/tree_icon.png"},
@@ -202,6 +205,7 @@
         {"text": "Advanced StudioLite", "url": "https://galaxy.signage.me/_studiolite-dist/StudioLiteAdv.mp4", "videoid": "advStudioLite","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Sequencer vs Scheduler", "url": "https://galaxy.signage.me/_studiolite-dist/LiteSeqVsSched.mp4", "videoid": "seqVsSched","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Collection component", "url": "https://galaxy.signage.me/_studiolite-dist/LiteCollection.mp4", "videoid": "collection","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Location based", "url": "https://galaxy.signage.me/_studiolite-dist/LocationBased.mp4", "videoid": "locationBased","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "FasterQ line management", "url": "http://videos.signage.me/FasterQ.mp4", "videoid": "FasterQ","icon" : "/videoTutorials/_assets/tree_icon.png"}
       ]
     }
