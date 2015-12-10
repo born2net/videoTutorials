@@ -13,163 +13,163 @@
         {
           "text": "Start here",          
           "children": [
-            {"text": "Basic intro", "url": "http://videos.signage.me/DSIntro.mp4", "videoid": "StartHere","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Feature intro", "url": "http://videos.signage.me/MediaSignageFeatures.mp4", "videoid": "FeaturesIntro","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Intro to Campaigns", "url": "http://videos.signage.me/Campaigns.mp4", "videoid": "campaigns","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Screen Types", "url": "http://videos.signage.me/ScreenTypes.mp4", "videoid": "ScreenTypes","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Intro to Scenes", "url": "http://videos.signage.me/Scenes.mp4", "videoid": "IntroToScns","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Shared Library", "url": "http://videos.signage.me/SharedLibrary.mp4", "videoid": "sharedLibrary","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "The mediaDROIDX", "url": "http://videos.signage.me/mediadroidXIntro.mp4", "videoid": "mediadroidx","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Basic intro", "url": "http://s3.signage.me/business1000/resources/DSIntro.mp4", "videoid": "StartHere","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Feature intro", "url": "http://s3.signage.me/business1000/resources/MediaSignageFeatures.mp4", "videoid": "FeaturesIntro","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Intro to Campaigns", "url": "http://s3.signage.me/business1000/resources/Campaigns.mp4", "videoid": "campaigns","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Screen Types", "url": "http://s3.signage.me/business1000/resources/ScreenTypes.mp4", "videoid": "ScreenTypes","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Intro to Scenes", "url": "http://s3.signage.me/business1000/resources/Scenes.mp4", "videoid": "IntroToScns","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Shared Library", "url": "http://s3.signage.me/business1000/resources/SharedLibrary.mp4", "videoid": "sharedLibrary","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "The mediaDROIDX", "url": "http://s3.signage.me/business1000/resources/mediadroidXIntro.mp4", "videoid": "mediadroidx","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
         {
           "text": "Studio Components",
           "children": [
-            {"text": "Weather component", "url": "http://videos.signage.me/Weather.mp4", "videoid": "12","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "World weather component", "url": "http://videos.signage.me/Worldweather.mp4", "videoid": "Worldweather","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Stock component", "url": "http://videos.signage.me/Stocks.mp4", "videoid": "14","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "RSS/News/Podcast component", "url": "http://videos.signage.me/rssMediaRSS.mp4", "videoid": "16","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "JSON Component", "url": "http://videos.signage.me/json.mp4", "videoid": "JSON","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "XML Component", "url": "http://videos.signage.me/XMLComponent.mp4", "videoid": "XML","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Catalog component", "url": "http://videos.signage.me/Catalog.mp4", "videoid": "Catalog","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Facebook component", "url": "http://videos.signage.me/Facebookv2.mp4", "videoid": "Facebookv2","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Twitter v3 component", "url": "http://videos.signage.me/Twitterv3.mp4", "videoid": "TwitterComponent","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Flickr component", "url": "http://videos.signage.me/Flickr.mp4", "videoid": "Flickr","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Dropbox component", "url": "http://videos.signage.me/Dropbox.mp4", "videoid": "Dropbox","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Google Drive component", "url": "http://videos.signage.me/GoogleDrive.mp4", "videoid": "GoogleDrive","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Google Calendar component", "url": "http://videos.signage.me/Calendar.mp4", "videoid": "Calendar","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Google Sheets component", "url": "http://videos.signage.me/GoogleSheets.mp4", "videoid": "GoogleSheets","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Google Picasa component", "url": "http://videos.signage.me/Picasa.mp4", "videoid": "Picasa","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Google Plus component", "url": "http://videos.signage.me/GooglePlus.mp4", "videoid": "GooglePlus","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "YouTube component", "url": "http://videos.signage.me/YouTube.mp4", "videoid": "YouTube","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Instagram component", "url": "http://videos.signage.me/Instagram.mp4", "videoid": "Instagram","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Tumblr component", "url": "http://videos.signage.me/Tumblr.mp4", "videoid": "Tumblr","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Yelp component", "url": "http://videos.signage.me/Yelp.mp4", "videoid": "Yelp","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Etsy component", "url": "http://videos.signage.me/Etsy.mp4", "videoid": "Etsy","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Mashape component", "url": "http://videos.signage.me/Mashape.mp4", "videoid": "Mashape","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Pinterest component", "url": "http://videos.signage.me/Pinterest.mp4", "videoid": "Pinterest","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "500px component", "url": "http://videos.signage.me/500px.mp4", "videoid": "500px","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Digg component", "url": "http://videos.signage.me/digg.mp4", "videoid": "Digg","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "QR Code component", "url": "http://videos.signage.me/QR.mp4", "videoid": "QR","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "RemoteTouch with Mobile", "url": "http://videos.signage.me/RemoteTouch.mp4", "videoid": "RemoteTouch","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Remote Values component", "url": "http://videos.signage.me/RemoteValues.mp4", "videoid": "RemoteValues","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Remote Counter component", "url": "http://videos.signage.me/RemoteCounter.mp4", "videoid": "RemoteCounter","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Chat component", "url": "http://videos.signage.me/Chat.mp4", "videoid": "Chat","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Countdown component", "url": "http://videos.signage.me/countdown.mp4", "videoid": "Countdown","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Emergency and Alerting", "url": "http://videos.signage.me/Emergency.mp4", "videoid": "Emergency","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Collection component", "url": "http://videos.signage.me/Collection.mp4", "videoid": "Collection","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Form component", "url": "http://videos.signage.me/Form.mp4", "videoid": "Form","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "WebCam USB component", "url": "http://videos.signage.me/WebCam.mp4", "videoid": "8","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "HTML component", "url": "http://videos.signage.me/HTML.mp4", "videoid": "10","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Browser component", "url": "http://videos.signage.me/Browser.mp4", "videoid": "Browser","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Label Queue", "url": "http://videos.signage.me/Labelq.mp4", "videoid": "labelq","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Custom RSS component", "url": "http://videos.signage.me/customRSS.mp4", "videoid": "customRSS","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Location based", "url": "http://videos.signage.me/LocationBasedPro.mp4", "videoid": "locationBasedPro","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "FasterQ line management", "url": "http://videos.signage.me/FasterQ.mp4", "videoid": "FasterQ","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "mediaTV component", "url": "http://videos.signage.me/CaptureHD.mp4", "videoid": "hdCapture","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Date/Time/Clocks component", "url": "http://videos.signage.me/datetime.mp4", "videoid": "dateAndTime","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Power Point component", "url": "http://videos.signage.me/powerpoint.mp4", "videoid": "powerPoint" ,"icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Weather component", "url": "http://s3.signage.me/business1000/resources/Weather.mp4", "videoid": "12","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "World weather component", "url": "http://s3.signage.me/business1000/resources/Worldweather.mp4", "videoid": "Worldweather","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Stock component", "url": "http://s3.signage.me/business1000/resources/Stocks.mp4", "videoid": "14","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "RSS/News/Podcast component", "url": "http://s3.signage.me/business1000/resources/rssMediaRSS.mp4", "videoid": "16","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "JSON Component", "url": "http://s3.signage.me/business1000/resources/json.mp4", "videoid": "JSON","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "XML Component", "url": "http://s3.signage.me/business1000/resources/XMLComponent.mp4", "videoid": "XML","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Catalog component", "url": "http://s3.signage.me/business1000/resources/Catalog.mp4", "videoid": "Catalog","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Facebook component", "url": "http://s3.signage.me/business1000/resources/Facebookv2.mp4", "videoid": "Facebookv2","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Twitter v3 component", "url": "http://s3.signage.me/business1000/resources/Twitterv3.mp4", "videoid": "TwitterComponent","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Flickr component", "url": "http://s3.signage.me/business1000/resources/Flickr.mp4", "videoid": "Flickr","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Dropbox component", "url": "http://s3.signage.me/business1000/resources/Dropbox.mp4", "videoid": "Dropbox","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Google Drive component", "url": "http://s3.signage.me/business1000/resources/GoogleDrive.mp4", "videoid": "GoogleDrive","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Google Calendar component", "url": "http://s3.signage.me/business1000/resources/Calendar.mp4", "videoid": "Calendar","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Google Sheets component", "url": "http://s3.signage.me/business1000/resources/GoogleSheets.mp4", "videoid": "GoogleSheets","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Google Picasa component", "url": "http://s3.signage.me/business1000/resources/Picasa.mp4", "videoid": "Picasa","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Google Plus component", "url": "http://s3.signage.me/business1000/resources/GooglePlus.mp4", "videoid": "GooglePlus","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "YouTube component", "url": "http://s3.signage.me/business1000/resources/YouTube.mp4", "videoid": "YouTube","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Instagram component", "url": "http://s3.signage.me/business1000/resources/Instagram.mp4", "videoid": "Instagram","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Tumblr component", "url": "http://s3.signage.me/business1000/resources/Tumblr.mp4", "videoid": "Tumblr","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Yelp component", "url": "http://s3.signage.me/business1000/resources/Yelp.mp4", "videoid": "Yelp","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Etsy component", "url": "http://s3.signage.me/business1000/resources/Etsy.mp4", "videoid": "Etsy","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Mashape component", "url": "http://s3.signage.me/business1000/resources/Mashape.mp4", "videoid": "Mashape","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Pinterest component", "url": "http://s3.signage.me/business1000/resources/Pinterest.mp4", "videoid": "Pinterest","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "500px component", "url": "http://s3.signage.me/business1000/resources/500px.mp4", "videoid": "500px","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Digg component", "url": "http://s3.signage.me/business1000/resources/digg.mp4", "videoid": "Digg","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "QR Code component", "url": "http://s3.signage.me/business1000/resources/QR.mp4", "videoid": "QR","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "RemoteTouch with Mobile", "url": "http://s3.signage.me/business1000/resources/RemoteTouch.mp4", "videoid": "RemoteTouch","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Remote Values component", "url": "http://s3.signage.me/business1000/resources/RemoteValues.mp4", "videoid": "RemoteValues","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Remote Counter component", "url": "http://s3.signage.me/business1000/resources/RemoteCounter.mp4", "videoid": "RemoteCounter","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Chat component", "url": "http://s3.signage.me/business1000/resources/Chat.mp4", "videoid": "Chat","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Countdown component", "url": "http://s3.signage.me/business1000/resources/countdown.mp4", "videoid": "Countdown","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Emergency and Alerting", "url": "http://s3.signage.me/business1000/resources/Emergency.mp4", "videoid": "Emergency","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Collection component", "url": "http://s3.signage.me/business1000/resources/Collection.mp4", "videoid": "Collection","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Form component", "url": "http://s3.signage.me/business1000/resources/Form.mp4", "videoid": "Form","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "WebCam USB component", "url": "http://s3.signage.me/business1000/resources/WebCam.mp4", "videoid": "8","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "HTML component", "url": "http://s3.signage.me/business1000/resources/HTML.mp4", "videoid": "10","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Browser component", "url": "http://s3.signage.me/business1000/resources/Browser.mp4", "videoid": "Browser","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Label Queue", "url": "http://s3.signage.me/business1000/resources/Labelq.mp4", "videoid": "labelq","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Custom RSS component", "url": "http://s3.signage.me/business1000/resources/customRSS.mp4", "videoid": "customRSS","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Location based", "url": "http://s3.signage.me/business1000/resources/LocationBasedPro.mp4", "videoid": "locationBasedPro","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "FasterQ line management", "url": "http://s3.signage.me/business1000/resources/FasterQ.mp4", "videoid": "FasterQ","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "mediaTV component", "url": "http://s3.signage.me/business1000/resources/CaptureHD.mp4", "videoid": "hdCapture","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Date/Time/Clocks component", "url": "http://s3.signage.me/business1000/resources/datetime.mp4", "videoid": "dateAndTime","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Power Point component", "url": "http://s3.signage.me/business1000/resources/powerpoint.mp4", "videoid": "powerPoint" ,"icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
         {
           "text": "Channels",
           "children": [
-            {"text": "Local Channels", "url": "http://videos.signage.me/localChannels.mp4", "videoid": "localChannel","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Common Channels", "url": "http://videos.signage.me/commonChannels.mp4", "videoid": "commonChannel","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Continuous Channel", "url": "http://videos.signage.me/ContinuousChannel.mp4", "videoid": "ContinousChannel","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Local Channels", "url": "http://s3.signage.me/business1000/resources/localChannels.mp4", "videoid": "localChannel","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Common Channels", "url": "http://s3.signage.me/business1000/resources/commonChannels.mp4", "videoid": "commonChannel","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Continuous Channel", "url": "http://s3.signage.me/business1000/resources/ContinuousChannel.mp4", "videoid": "ContinousChannel","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
         {
           "text": "Resources",
           "children": [
-            {"text": "Use media files", "url": "http://videos.signage.me/Resources.mp4", "videoid": "30","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "External resources", "url": "http://videos.signage.me/ExternalResources.mp4", "videoid": "32","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Backgrounds and Masks", "url": "http://videos.signage.me/BackMask.mp4", "videoid": "bgmask","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Content creation", "url": "http://videos.signage.me/Content.mp4", "videoid": "Content","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Use media files", "url": "http://s3.signage.me/business1000/resources/Resources.mp4", "videoid": "30","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "External resources", "url": "http://s3.signage.me/business1000/resources/ExternalResources.mp4", "videoid": "32","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Backgrounds and Masks", "url": "http://s3.signage.me/business1000/resources/BackMask.mp4", "videoid": "bgmask","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Content creation", "url": "http://s3.signage.me/business1000/resources/Content.mp4", "videoid": "Content","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
         {
           "text": "Sequencer / Scheduler",
           "children": [
-            {"text": "Timeline Sequencer", "url": "http://videos.signage.me/Sequences.mp4", "videoid": "50","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Timeline  Scheduler", "url": "http://videos.signage.me/Scheduler.mp4", "videoid": "campaignSched","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Timeline Sequencer", "url": "http://s3.signage.me/business1000/resources/Sequences.mp4", "videoid": "50","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Timeline  Scheduler", "url": "http://s3.signage.me/business1000/resources/Scheduler.mp4", "videoid": "campaignSched","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
         {
           "text": "Players",
           "children": [
-            {"text": "Desktop Player", "url": "http://videos.signage.me/SignagePlayer.mp4", "videoid": "60","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Embedded Player", "url": "http://videos.signage.me/EmbeddedPlayer.mp4", "videoid": "embeddedPlayer","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Android Player", "url": "http://videos.signage.me/AndroidMultiScreen.mp4", "videoid": "AndroidPlayer","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "mediaDROID", "url": "http://videos.signage.me/mediaDROID.mp4", "videoid": "mediaDROID","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Desktop Player", "url": "http://s3.signage.me/business1000/resources/SignagePlayer.mp4", "videoid": "60","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Embedded Player", "url": "http://s3.signage.me/business1000/resources/EmbeddedPlayer.mp4", "videoid": "embeddedPlayer","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Android Player", "url": "http://s3.signage.me/business1000/resources/AndroidMultiScreen.mp4", "videoid": "AndroidPlayer","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "mediaDROID", "url": "http://s3.signage.me/business1000/resources/mediaDROID.mp4", "videoid": "mediaDROID","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
         {
           "text": "Internet of things (IOT)",
           "children": [
-            {"text": "IOT Vera", "url": "http://videos.signage.me/iotVera.mp4", "videoid": "vera","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "IOT Arduino Yun", "url": "http://videos.signage.me/arduinoYun.mp4", "videoid": "arduino","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "RemoteTouch with Mobile", "url": "http://videos.signage.me/RemoteTouch.mp4", "videoid": "RemoteTouch","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "RemotePad with Mobile", "url": "http://videos.signage.me/RemotePad.mp4", "videoid": "RemotePad","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Remote Values component", "url": "http://videos.signage.me/RemoteValues.mp4", "videoid": "RemoteValues","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Events and Triggers", "url": "http://videos.signage.me/EventsTriggers.mp4", "videoid": "EventsTriggers","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Scripting", "url": "http://videos.signage.me/Scriping.mp4", "videoid": "Scripts","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "IOT Vera", "url": "http://s3.signage.me/business1000/resources/iotVera.mp4", "videoid": "vera","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "IOT Arduino Yun", "url": "http://s3.signage.me/business1000/resources/arduinoYun.mp4", "videoid": "arduino","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "RemoteTouch with Mobile", "url": "http://s3.signage.me/business1000/resources/RemoteTouch.mp4", "videoid": "RemoteTouch","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "RemotePad with Mobile", "url": "http://s3.signage.me/business1000/resources/RemotePad.mp4", "videoid": "RemotePad","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Remote Values component", "url": "http://s3.signage.me/business1000/resources/RemoteValues.mp4", "videoid": "RemoteValues","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Events and Triggers", "url": "http://s3.signage.me/business1000/resources/EventsTriggers.mp4", "videoid": "EventsTriggers","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Scripting", "url": "http://s3.signage.me/business1000/resources/Scriping.mp4", "videoid": "Scripts","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
         {
           "text": "Tips and tricks",
           "children": [
-            {"text": "Continuous Channel", "url": "http://videos.signage.me/ContinuousChannel.mp4", "videoid": "ContinousChannel","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Copy/Paste between accounts", "url": "http://videos.signage.me/CopyPaste.mp4", "videoid": "copyPaste","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Cropping HTML web site", "url": "http://videos.signage.me/HTMLCrop.mp4", "videoid": "HTMLCrop","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Multi selection / alignments", "url": "http://videos.signage.me/MultiFunctions.mp4", "videoid": "Multi","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Folder and Filters", "url": "http://videos.signage.me/FolderFilter.mp4", "videoid": "folderFilterv2","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Resource perspective", "url": "http://videos.signage.me/perspective.mp4", "videoid": "perspective","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Channel properties", "url": "http://videos.signage.me/chprops.mp4", "videoid": "chprops","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Global Scene", "url": "http://videos.signage.me/globalscenes.mp4", "videoid": "globalscenes","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Resource Thumbnail", "url": "http://videos.signage.me/thumbnails.mp4", "videoid": "thumbnails","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Screen Division levels", "url": "http://videos.signage.me/viewlevel.mp4", "videoid": "viewlevel","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Continuous Channel", "url": "http://s3.signage.me/business1000/resources/ContinuousChannel.mp4", "videoid": "ContinousChannel","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Copy/Paste between accounts", "url": "http://s3.signage.me/business1000/resources/CopyPaste.mp4", "videoid": "copyPaste","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Cropping HTML web site", "url": "http://s3.signage.me/business1000/resources/HTMLCrop.mp4", "videoid": "HTMLCrop","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Multi selection / alignments", "url": "http://s3.signage.me/business1000/resources/MultiFunctions.mp4", "videoid": "Multi","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Folder and Filters", "url": "http://s3.signage.me/business1000/resources/FolderFilter.mp4", "videoid": "folderFilterv2","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Resource perspective", "url": "http://s3.signage.me/business1000/resources/perspective.mp4", "videoid": "perspective","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Channel properties", "url": "http://s3.signage.me/business1000/resources/chprops.mp4", "videoid": "chprops","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Global Scene", "url": "http://s3.signage.me/business1000/resources/globalscenes.mp4", "videoid": "globalscenes","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Resource Thumbnail", "url": "http://s3.signage.me/business1000/resources/thumbnails.mp4", "videoid": "thumbnails","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Screen Division levels", "url": "http://s3.signage.me/business1000/resources/viewlevel.mp4", "videoid": "viewlevel","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
         {
           "text": "Advertising",
           "children": [
-            {"text": "Proof of play", "url": "http://videos.signage.me/ProofOfPlay.mp4", "videoid": "ProofOfPlay","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Proof of play", "url": "http://s3.signage.me/business1000/resources/ProofOfPlay.mp4", "videoid": "ProofOfPlay","icon" : "/videoTutorials/_assets/tree_icon.png"}
 
           ]
         },
         {
           "text": "Open source Signage",
           "children": [
-            {"text": "HTML SDK Intro (part 1)", "url": "http://videos.signage.me/html_sdk_part1.mp4", "videoid": "htmlSdkIntro","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "HTML SDK API (part 2)", "url": "http://videos.signage.me/html_sdk_part2.mp4", "videoid": "htmlSdkAPI","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "HTML SDK Debug/Config (part 3)", "url": "http://videos.signage.me/html_sdk_part3.mp4", "videoid": "htmlSdkDebug","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "StudioLite SDK (Pepper)", "url": "http://videos.signage.me/StudioLiteSDK.mp4", "videoid": "opensource","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "HTML SDK Intro (part 1)", "url": "http://s3.signage.me/business1000/resources/html_sdk_part1.mp4", "videoid": "htmlSdkIntro","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "HTML SDK API (part 2)", "url": "http://s3.signage.me/business1000/resources/html_sdk_part2.mp4", "videoid": "htmlSdkAPI","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "HTML SDK Debug/Config (part 3)", "url": "http://s3.signage.me/business1000/resources/html_sdk_part3.mp4", "videoid": "htmlSdkDebug","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "StudioLite SDK (Pepper)", "url": "http://s3.signage.me/business1000/resources/StudioLiteSDK.mp4", "videoid": "opensource","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
         {
           "text": "Advanced",
           "children": [
-            {"text": "Intro", "url": "http://videos.signage.me/ExternalApplicationIntro.mp4", "videoid": "IntroExtApplication","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Capture/Live HD TV", "url": "http://videos.signage.me/CaptureHD.mp4", "videoid": "hdCaptureExtApp","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "FireFox", "url": "http://videos.signage.me/ExternalApplicationFireFox.mp4", "videoid": "FireFox","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "VLC", "url": "http://videos.signage.me/ExternalApplicationVLC.mp4", "videoid": "VLC","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "PowerPoint", "url": "http://videos.signage.me/powerpoint.mp4", "videoid": "powerPointExtApp","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Transition effect", "url": "http://videos.signage.me/Transition.mp4", "videoid": "Transition","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Events and Triggers", "url": "http://videos.signage.me/EventsTriggers.mp4", "videoid": "EventsTriggers","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Scripting", "url": "http://videos.signage.me/Scriping.mp4", "videoid": "Scripts","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Video wall setup", "url": "http://videos.signage.me/VideoWall.mp4", "videoid": "VideoWall","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Power Savings", "url": "http://videos.signage.me/PowerSavings.mp4", "videoid": "PowerSavings","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Server connections", "url": "http://videos.signage.me/ServerConnections.mp4", "videoid": "ServerConnection","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Linux Installation", "url": "http://videos.signage.me/LinuxInstall.mp4", "videoid": "LinuxInstall","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Mac Installation", "url": "http://videos.signage.me/Mac.mp4", "videoid": "Mac","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Offline Updater (SneakerNet)", "url": "http://videos.signage.me/OfflineUpdate.mp4", "videoid": "OfflineUpdater","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Kiosk", "url": "http://videos.signage.me/Kiosk.mp4", "videoid": "kiosk","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Multi Output", "url": "http://videos.signage.me/MultiOutput.mp4", "videoid": "MultiScreen","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Interrupt mode", "url": "http://videos.signage.me/InteruptMode.mp4", "videoid": "SignageScreenSaver","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Music Player", "url": "http://videos.signage.me/MusicPlayer.mp4", "videoid": "music","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Video Conversion", "url": "http://videos.signage.me/VideoConversion.mp4", "videoid": "VideoConversion","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Localization", "url": "http://videos.signage.me/Localization.mp4", "videoid": "localization","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Intro", "url": "http://s3.signage.me/business1000/resources/ExternalApplicationIntro.mp4", "videoid": "IntroExtApplication","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Capture/Live HD TV", "url": "http://s3.signage.me/business1000/resources/CaptureHD.mp4", "videoid": "hdCaptureExtApp","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "FireFox", "url": "http://s3.signage.me/business1000/resources/ExternalApplicationFireFox.mp4", "videoid": "FireFox","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "VLC", "url": "http://s3.signage.me/business1000/resources/ExternalApplicationVLC.mp4", "videoid": "VLC","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "PowerPoint", "url": "http://s3.signage.me/business1000/resources/powerpoint.mp4", "videoid": "powerPointExtApp","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Transition effect", "url": "http://s3.signage.me/business1000/resources/Transition.mp4", "videoid": "Transition","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Events and Triggers", "url": "http://s3.signage.me/business1000/resources/EventsTriggers.mp4", "videoid": "EventsTriggers","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Scripting", "url": "http://s3.signage.me/business1000/resources/Scriping.mp4", "videoid": "Scripts","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Video wall setup", "url": "http://s3.signage.me/business1000/resources/VideoWall.mp4", "videoid": "VideoWall","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Power Savings", "url": "http://s3.signage.me/business1000/resources/PowerSavings.mp4", "videoid": "PowerSavings","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Server connections", "url": "http://s3.signage.me/business1000/resources/ServerConnections.mp4", "videoid": "ServerConnection","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Linux Installation", "url": "http://s3.signage.me/business1000/resources/LinuxInstall.mp4", "videoid": "LinuxInstall","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Mac Installation", "url": "http://s3.signage.me/business1000/resources/Mac.mp4", "videoid": "Mac","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Offline Updater (SneakerNet)", "url": "http://s3.signage.me/business1000/resources/OfflineUpdate.mp4", "videoid": "OfflineUpdater","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Kiosk", "url": "http://s3.signage.me/business1000/resources/Kiosk.mp4", "videoid": "kiosk","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Multi Output", "url": "http://s3.signage.me/business1000/resources/MultiOutput.mp4", "videoid": "MultiScreen","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Interrupt mode", "url": "http://s3.signage.me/business1000/resources/InteruptMode.mp4", "videoid": "SignageScreenSaver","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Music Player", "url": "http://s3.signage.me/business1000/resources/MusicPlayer.mp4", "videoid": "music","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Video Conversion", "url": "http://s3.signage.me/business1000/resources/VideoConversion.mp4", "videoid": "VideoConversion","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Localization", "url": "http://s3.signage.me/business1000/resources/Localization.mp4", "videoid": "localization","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         }
       ]
@@ -177,37 +177,37 @@
     {
       "text": "Enterprise",
       "children": [
-        {"text": "Reseller Program intro", "url": "http://videos.signage.me/Resellers.mp4", "videoid": "StartHere","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Manage users", "url": "http://videos.signage.me/ManagingUsers.mp4", "videoid": "managingUsers","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Manage Businesses", "url": "http://videos.signage.me/ManageBusinesses.mp4", "videoid": "manageBusinesses","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Multi user support", "url": "http://videos.signage.me/MultiUsers.mp4", "videoid": "multiUsers","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Managed Privileges", "url": "http://videos.signage.me/Privileges.mp4", "videoid": "privileges","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Access keys", "url": "http://videos.signage.me/AccessKeys.mp4", "videoid": "accessKeys","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "White Label / Branding", "url": "http://videos.signage.me/WhiteLabel.mp4", "videoid": "witeLabel","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Host Get started", "url": "http://videos.signage.me/msGetStarted.mp4", "videoid": "msgetstarted","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Copy/Paste between accounts", "url": "http://videos.signage.me/CopyPaste.mp4", "videoid": "copyPaste","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Shared Library", "url": "http://videos.signage.me/SharedLibrary.mp4", "videoid": "sharedLibrary","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Proof of play", "url": "http://videos.signage.me/ProofOfPlay.mp4", "videoid": "ProofOfPlay","icon" : "/videoTutorials/_assets/tree_icon.png"}
+        {"text": "Reseller Program intro", "url": "http://s3.signage.me/business1000/resources/Resellers.mp4", "videoid": "StartHere","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Manage users", "url": "http://s3.signage.me/business1000/resources/ManagingUsers.mp4", "videoid": "managingUsers","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Manage Businesses", "url": "http://s3.signage.me/business1000/resources/ManageBusinesses.mp4", "videoid": "manageBusinesses","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Multi user support", "url": "http://s3.signage.me/business1000/resources/MultiUsers.mp4", "videoid": "multiUsers","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Managed Privileges", "url": "http://s3.signage.me/business1000/resources/Privileges.mp4", "videoid": "privileges","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Access keys", "url": "http://s3.signage.me/business1000/resources/AccessKeys.mp4", "videoid": "accessKeys","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "White Label / Branding", "url": "http://s3.signage.me/business1000/resources/WhiteLabel.mp4", "videoid": "witeLabel","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Host Get started", "url": "http://s3.signage.me/business1000/resources/msGetStarted.mp4", "videoid": "msgetstarted","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Copy/Paste between accounts", "url": "http://s3.signage.me/business1000/resources/CopyPaste.mp4", "videoid": "copyPaste","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Shared Library", "url": "http://s3.signage.me/business1000/resources/SharedLibrary.mp4", "videoid": "sharedLibrary","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Proof of play", "url": "http://s3.signage.me/business1000/resources/ProofOfPlay.mp4", "videoid": "ProofOfPlay","icon" : "/videoTutorials/_assets/tree_icon.png"}
       ]
     },
     {
       "text": "mediaSERVER",
       "children": [
-        {"text": "mediaSERVER install", "url": "http://videos.signage.me/mediaServerInstall.mp4", "videoid": "mediaServerInstall","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Player and Studio setup", "url": "http://videos.signage.me/mediaServerStudioPlayer.mp4", "videoid": "mediaServerPlayerStudio","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Add Licenses", "url": "http://videos.signage.me/mediaServerLicenes.mp4", "videoid": "mediaServerAddLicenes","icon" : "/videoTutorials/_assets/tree_icon.png"}
+        {"text": "mediaSERVER install", "url": "http://s3.signage.me/business1000/resources/mediaServerInstall.mp4", "videoid": "mediaServerInstall","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Player and Studio setup", "url": "http://s3.signage.me/business1000/resources/mediaServerStudioPlayer.mp4", "videoid": "mediaServerPlayerStudio","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Add Licenses", "url": "http://s3.signage.me/business1000/resources/mediaServerLicenes.mp4", "videoid": "mediaServerAddLicenes","icon" : "/videoTutorials/_assets/tree_icon.png"}
       ]
     },
     {
       "text": "StudioLite",
       "children": [
-        {"text": "Intro to StudioLite", "url": "http://videos.signage.me/StudioLite.mp4", "videoid": "studioLite","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Scenes", "url": "http://videos.signage.me/SceneComponentsLite.mp4", "videoid": "SceneComponentsLite","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Advanced StudioLite", "url": "http://videos.signage.me/StudioLiteAdv.mp4", "videoid": "advStudioLite","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Sequencer vs Scheduler", "url": "http://videos.signage.me/LiteSeqVsSched.mp4", "videoid": "seqVsSched","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Collection component", "url": "http://videos.signage.me/LiteCollection.mp4", "videoid": "collection","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Location based", "url": "http://videos.signage.me/LocationBased.mp4", "videoid": "locationBased","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "FasterQ line management", "url": "http://videos.signage.me/FasterQ.mp4", "videoid": "FasterQ","icon" : "/videoTutorials/_assets/tree_icon.png"}
+        {"text": "Intro to StudioLite", "url": "http://s3.signage.me/business1000/resources/StudioLite.mp4", "videoid": "studioLite","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Scenes", "url": "http://s3.signage.me/business1000/resources/SceneComponentsLite.mp4", "videoid": "SceneComponentsLite","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Advanced StudioLite", "url": "http://s3.signage.me/business1000/resources/StudioLiteAdv.mp4", "videoid": "advStudioLite","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Sequencer vs Scheduler", "url": "http://s3.signage.me/business1000/resources/LiteSeqVsSched.mp4", "videoid": "seqVsSched","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Collection component", "url": "http://s3.signage.me/business1000/resources/LiteCollection.mp4", "videoid": "collection","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Location based", "url": "http://s3.signage.me/business1000/resources/LocationBased.mp4", "videoid": "locationBased","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "FasterQ line management", "url": "http://s3.signage.me/business1000/resources/FasterQ.mp4", "videoid": "FasterQ","icon" : "/videoTutorials/_assets/tree_icon.png"}
       ]
     }
   ]
