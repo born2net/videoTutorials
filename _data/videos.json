@@ -203,6 +203,7 @@
       "children": [
         {"text": "Intro to StudioLite", "url": "http://s3.signage.me/business1000/resources/StudioLite.mp4", "videoid": "studioLite","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Scenes", "url": "http://s3.signage.me/business1000/resources/SceneComponentsLite.mp4", "videoid": "SceneComponentsLite","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Calendar", "url": "http://s3.signage.me/business1000/resources/LiteGoogleCalendar.mp4", "videoid": "liteCalendar","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Advanced StudioLite", "url": "http://s3.signage.me/business1000/resources/StudioLiteAdv.mp4", "videoid": "advStudioLite","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Sequencer vs Scheduler", "url": "http://s3.signage.me/business1000/resources/LiteSeqVsSched.mp4", "videoid": "seqVsSched","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Collection component", "url": "http://s3.signage.me/business1000/resources/LiteCollection.mp4", "videoid": "collection","icon" : "/videoTutorials/_assets/tree_icon.png"},
