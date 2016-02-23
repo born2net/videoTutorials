@@ -134,7 +134,10 @@
         {
           "text": "Advertising",
           "children": [
-            {"text": "Proof of play", "url": "http://s3.signage.me/business1000/resources/ProofOfPlay.mp4", "videoid": "ProofOfPlay","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Proof of play", "url": "http://s3.signage.me/business1000/resources/ProofOfPlay.mp4", "videoid": "ProofOfPlay","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "mediaADNET pre-release 1", "url": "https://dl.dropboxusercontent.com/u/189423932/MS/adnet_features_v3.mp4", "videoid": "adnet1","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "mediaADNET pre-release 2", "url": "https://dl.dropboxusercontent.com/u/189423932/MS/ADNET_videos/adnet_internal_vid_tutorials_-_privileges.mp4", "videoid": "adnet2","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "mediaADNET pre-release 3", "url": "https://dl.dropboxusercontent.com/u/189423932/MS/ADNET_videos/adnet_internal_vid_tutorials_-_config_rates.mp4", "videoid": "adnet3","icon" : "/videoTutorials/_assets/tree_icon.png"}
 
           ]
         },
