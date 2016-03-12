@@ -203,7 +203,9 @@
         {"text": "net privileges", "url": "http://s3.signage.me/business1000/resources/ad_net_privileges.mp4", "videoid": "adnetNetworkPriv","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "scene assets", "url": "http://s3.signage.me/business1000/resources/adnet_scene_assets.mp4", "videoid": "adnetSceneAssets","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "packages", "url": "http://s3.signage.me/business1000/resources/adnet_build_package.mp4", "videoid": "adnetPackages","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "reports", "url": "http://s3.signage.me/business1000/resources/adnet_reports.mp4", "videoid": "adnetReports","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "estimate", "url": "http://s3.signage.me/business1000/resources/adnet_estimate.mp4", "videoid": "adnetEstimates","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "chat", "url": "http://s3.signage.me/business1000/resources/adnet_chat.mp4", "videoid": "adnetChat","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "friend activation", "url": "http://s3.signage.me/business1000/resources/adnet_friend_activation.mp4", "videoid": "adnetFriendActive","icon" : "/videoTutorials/_assets/tree_icon.png"}
 
       ]
