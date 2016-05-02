@@ -216,7 +216,6 @@
         {"text": "chat", "url": "http://s3.signage.me/business1000/resources/adnet_chat.mp4", "videoid": "adnetChat","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "friend activation", "url": "http://s3.signage.me/business1000/resources/adnet_friend_activation.mp4", "videoid": "adnetFriendActive","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "troubleshooting", "url": "http://s3.signage.me/business1000/resources/adnet_troubleshooting.mp4", "videoid": "adnetTroubleshooting","icon" : "/videoTutorials/_assets/tree_icon.png"}
-
       ]
     },
     {
