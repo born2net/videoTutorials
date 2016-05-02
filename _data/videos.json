@@ -201,6 +201,7 @@
         {"text": "location based", "url": "http://s3.signage.me/business1000/resources/adnet_location_based.mp4", "videoid": "adnetLocationBased","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "customers", "url": "http://s3.signage.me/business1000/resources/adnet_config_customers.mp4", "videoid": "adnetCustomers","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "network info", "url": "http://s3.signage.me/business1000/resources/adnet_network_intro.mp4", "videoid": "adnetNetworkInfo","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "local ads", "url": "http://s3.signage.me/business1000/resources/local_ads.mp4", "videoid": "local_ads","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "net privileges", "url": "http://s3.signage.me/business1000/resources/ad_net_privileges.mp4", "videoid": "adnetNetworkPriv","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "scene assets", "url": "http://s3.signage.me/business1000/resources/adnet_scene_assets.mp4", "videoid": "adnetSceneAssets","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "packages", "url": "http://s3.signage.me/business1000/resources/adnet_build_package.mp4", "videoid": "adnetPackages","icon" : "/videoTutorials/_assets/tree_icon.png"},
