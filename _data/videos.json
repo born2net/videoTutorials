@@ -170,6 +170,7 @@
     {
       "text": "Enterprise",
       "children": [
+        {"text": "StudioDashboard", "url": "http://s3.signage.me/business1000/resources/dashboard.mp4", "videoid": "StudioDashIntro","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Reseller Program intro", "url": "http://s3.signage.me/business1000/resources/Resellers.mp4", "videoid": "StartHere","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Manage users", "url": "http://s3.signage.me/business1000/resources/ManagingUsers.mp4", "videoid": "managingUsers","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Manage Businesses", "url": "http://s3.signage.me/business1000/resources/ManageBusinesses.mp4", "videoid": "manageBusinesses","icon" : "/videoTutorials/_assets/tree_icon.png"},
@@ -177,7 +178,7 @@
         {"text": "Managed Privileges", "url": "http://s3.signage.me/business1000/resources/Privileges.mp4", "videoid": "privileges","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Access keys", "url": "http://s3.signage.me/business1000/resources/AccessKeys.mp4", "videoid": "accessKeys","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "White Label / Branding", "url": "http://s3.signage.me/business1000/resources/WhiteLabel.mp4", "videoid": "witeLabel","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Host Get started", "url": "http://s3.signage.me/business1000/resources/msGetStarted.mp4", "videoid": "msgetstarted","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "Host Get started", "url": "http://s3.signage.me/business1000/resources/msGetStartedv2.mp4", "videoid": "msgetstarted","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Copy/Paste between accounts", "url": "http://s3.signage.me/business1000/resources/CopyPaste.mp4", "videoid": "copyPaste","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Shared Library", "url": "http://s3.signage.me/business1000/resources/SharedLibrary.mp4", "videoid": "sharedLibrary","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Proof of play", "url": "http://s3.signage.me/business1000/resources/ProofOfPlay.mp4", "videoid": "ProofOfPlay","icon" : "/videoTutorials/_assets/tree_icon.png"}
