@@ -180,8 +180,7 @@
         {"text": "White Label / Branding", "url": "http://s3.signage.me/business1000/resources/WhiteLabel.mp4", "videoid": "witeLabel","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Host Get started", "url": "http://s3.signage.me/business1000/resources/msGetStartedv2.mp4", "videoid": "msgetstarted","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Copy/Paste between accounts", "url": "http://s3.signage.me/business1000/resources/CopyPaste.mp4", "videoid": "copyPaste","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Shared Library", "url": "http://s3.signage.me/business1000/resources/SharedLibrary.mp4", "videoid": "sharedLibrary","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "Proof of play", "url": "http://s3.signage.me/business1000/resources/ProofOfPlay.mp4", "videoid": "ProofOfPlay","icon" : "/videoTutorials/_assets/tree_icon.png"}
+        {"text": "Shared Library", "url": "http://s3.signage.me/business1000/resources/SharedLibrary.mp4", "videoid": "sharedLibrary","icon" : "/videoTutorials/_assets/tree_icon.png"}
       ]
     },
     {
@@ -210,7 +209,7 @@
         {"text": "build ad ackages", "url": "http://s3.signage.me/business1000/resources/adnet_build_package_target_2.mp4", "videoid": "adnetBuildPackages","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "config targets", "url": "http://s3.signage.me/business1000/resources/adnet_config_targets.mp4", "videoid": "adnetConfigTargets","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "HTML banners", "url": "http://s3.signage.me/business1000/resources/adnet_banners.mp4", "videoid": "adnetBanners","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "reports", "url": "http://s3.signage.me/business1000/resources/adnet_reports.mp4", "videoid": "adnetReports","icon" : "/videoTutorials/_assets/tree_icon.png"},
+        {"text": "reports (proof of play)", "url": "http://s3.signage.me/business1000/resources/adnet_reports.mp4", "videoid": "adnetReports","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "timeline assets", "url": "http://s3.signage.me/business1000/resources/adnet_timeline_assets.mp4", "videoid": "adnetTimelimeAssets","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "billing", "url": "http://s3.signage.me/business1000/resources/adnet_billing.mp4", "videoid": "adnetBilling","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "estimate", "url": "http://s3.signage.me/business1000/resources/adnet_estimate.mp4", "videoid": "adnetEstimates","icon" : "/videoTutorials/_assets/tree_icon.png"},
