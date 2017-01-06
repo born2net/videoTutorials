@@ -230,7 +230,7 @@
         {"text": "Sequencer vs Scheduler", "url": "http://s3.signage.me/business1000/resources/LiteSeqVsSched.mp4", "videoid": "seqVsSched","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Collection component", "url": "http://s3.signage.me/business1000/resources/LiteCollection.mp4", "videoid": "collection","icon" : "/videoTutorials/_assets/tree_icon.png"},
         {"text": "Location based", "url": "http://s3.signage.me/business1000/resources/LocationBased.mp4", "videoid": "locationBased","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "FasterQ line management", "url": "http://s3.signage.me/business1000/resources/FasterQ.mp4", "videoid": "FasterQ","icon" : "/videoTutorials/_assets/tree_icon.png"}
+        {"text": "FasterQ line management", "url": "http://s3.signage.me/business1000/resources/FasterQv2.mp4", "videoid": "FasterQ","icon" : "/videoTutorials/_assets/tree_icon.png"}
       ]
     }
   ]
