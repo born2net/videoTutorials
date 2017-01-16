@@ -145,6 +145,10 @@
           "children": [
             {"text": "Intro", "url": "http://s3.signage.me/business1000/resources/ExternalApplicationIntro.mp4", "videoid": "IntroExtApplication","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Capture/Live HD TV", "url": "http://s3.signage.me/business1000/resources/CaptureHD.mp4", "videoid": "hdCaptureExtApp","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Micro web sites (part 1)", "url": "http://s3.signage.me/business1000/resources/html_sdk_part1.mp4", "videoid": "htmlSdkIntro","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Micro web sites API (part 2)", "url": "http://s3.signage.me/business1000/resources/html_sdk_part2.mp4", "videoid": "htmlSdkAPI","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Micro web sites debug (part 3)", "url": "http://s3.signage.me/business1000/resources/html_sdk_part3.mp4", "videoid": "htmlSdkDebug","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "StudioLite SDK (Pepper)", "url": "http://s3.signage.me/business1000/resources/StudioLiteSDK.mp4", "videoid": "opensource","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "FireFox", "url": "http://s3.signage.me/business1000/resources/ExternalApplicationFireFox.mp4", "videoid": "FireFox","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "VLC", "url": "http://s3.signage.me/business1000/resources/ExternalApplicationVLC.mp4", "videoid": "VLC","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "PowerPoint", "url": "http://s3.signage.me/business1000/resources/powerpoint.mp4", "videoid": "powerPointExtApp","icon" : "/videoTutorials/_assets/tree_icon.png"},
