@@ -11,7 +11,7 @@
       },
       "children": [
         {
-          "text": "Start here",          
+          "text": "Start here",
           "children": [
             {"text": "Basic intro", "url": "http://s3.signage.me/business1000/resources/DSIntro.mp4", "videoid": "StartHere","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Feature intro", "url": "http://s3.signage.me/business1000/resources/MediaSignageFeatures.mp4", "videoid": "FeaturesIntro","icon" : "/videoTutorials/_assets/tree_icon.png"},
@@ -198,30 +198,41 @@
     {
       "text": "mediaADNET",
       "children": [
-        {"text": "introduction", "url": "http://s3.signage.me/business1000/resources/adnet_intro.mp4", "videoid": "adnetIntro","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "features", "url": "http://s3.signage.me/business1000/resources/adnet_features.mp4", "videoid": "adnetFeatures","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "component", "url": "http://s3.signage.me/business1000/resources/adnet_component.mp4", "videoid": "adnetComponent","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "rates", "url": "http://s3.signage.me/business1000/resources/adnet_config_rates.mp4", "videoid": "adnetRates","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "location based", "url": "http://s3.signage.me/business1000/resources/adnet_location_based.mp4", "videoid": "adnetLocationBased","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "customers", "url": "http://s3.signage.me/business1000/resources/adnet_config_customers.mp4", "videoid": "adnetCustomers","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "network info", "url": "http://s3.signage.me/business1000/resources/adnet_network_intro.mp4", "videoid": "adnetNetworkInfo","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "local ads", "url": "http://s3.signage.me/business1000/resources/local_ads.mp4", "videoid": "local_ads","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "net privileges", "url": "http://s3.signage.me/business1000/resources/ad_net_privileges.mp4", "videoid": "adnetNetworkPriv","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "scene assets", "url": "http://s3.signage.me/business1000/resources/adnet_scene_assets.mp4", "videoid": "adnetSceneAssets","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "packages", "url": "http://s3.signage.me/business1000/resources/adnet_build_package.mp4", "videoid": "adnetPackages","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "content packages", "url": "http://s3.signage.me/business1000/resources/adnet_build_package_content.mp4", "videoid": "adnetPackagesContent","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "build ad ackages", "url": "http://s3.signage.me/business1000/resources/adnet_build_package_target_2.mp4", "videoid": "adnetBuildPackages","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "config targets", "url": "http://s3.signage.me/business1000/resources/adnet_config_targets.mp4", "videoid": "adnetConfigTargets","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "HTML banners", "url": "http://s3.signage.me/business1000/resources/adnet_banners.mp4", "videoid": "adnetBanners","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "reports (proof of play)", "url": "http://s3.signage.me/business1000/resources/adnet_reports.mp4", "videoid": "adnetReports","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "timeline assets", "url": "http://s3.signage.me/business1000/resources/adnet_timeline_assets.mp4", "videoid": "adnetTimelimeAssets","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "billing", "url": "http://s3.signage.me/business1000/resources/adnet_billing.mp4", "videoid": "adnetBilling","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "estimate", "url": "http://s3.signage.me/business1000/resources/adnet_estimate.mp4", "videoid": "adnetEstimates","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "rating and feedback", "url": "http://s3.signage.me/business1000/resources/adnet_rating_feedback_crowns.mp4", "videoid": "adnetRatingFeedBack","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "chat", "url": "http://s3.signage.me/business1000/resources/adnet_chat.mp4", "videoid": "adnetChat","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "friend activation", "url": "http://s3.signage.me/business1000/resources/adnet_friend_activation.mp4", "videoid": "adnetFriendActive","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "private server integration", "url": "http://s3.signage.me/business1000/resources/cloud_ads_to_server.mp4", "videoid": "adnetprivServer","icon" : "/videoTutorials/_assets/tree_icon.png"},
-        {"text": "troubleshooting", "url": "http://s3.signage.me/business1000/resources/adnet_troubleshooting.mp4", "videoid": "adnetTroubleshooting","icon" : "/videoTutorials/_assets/tree_icon.png"}
+    {
+      "text": "With StudioPro",
+      "children": [
+          { "text": "introduction", "url": "http://s3.signage.me/business1000/resources/adnet_intro.mp4", "videoid": "adnetIntro", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "features", "url": "http://s3.signage.me/business1000/resources/adnet_features.mp4", "videoid": "adnetFeatures", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "component", "url": "http://s3.signage.me/business1000/resources/adnet_component.mp4", "videoid": "adnetComponent", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "rates", "url": "http://s3.signage.me/business1000/resources/adnet_config_rates.mp4", "videoid": "adnetRates", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "location based", "url": "http://s3.signage.me/business1000/resources/adnet_location_based.mp4", "videoid": "adnetLocationBased", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "customers", "url": "http://s3.signage.me/business1000/resources/adnet_config_customers.mp4", "videoid": "adnetCustomers", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "network info", "url": "http://s3.signage.me/business1000/resources/adnet_network_intro.mp4", "videoid": "adnetNetworkInfo", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "local ads", "url": "http://s3.signage.me/business1000/resources/local_ads.mp4", "videoid": "local_ads", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "net privileges", "url": "http://s3.signage.me/business1000/resources/ad_net_privileges.mp4", "videoid": "adnetNetworkPriv", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "scene assets", "url": "http://s3.signage.me/business1000/resources/adnet_scene_assets.mp4", "videoid": "adnetSceneAssets", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "packages", "url": "http://s3.signage.me/business1000/resources/adnet_build_package.mp4", "videoid": "adnetPackages", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "content packages", "url": "http://s3.signage.me/business1000/resources/adnet_build_package_content.mp4", "videoid": "adnetPackagesContent", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "build ad packages", "url": "http://s3.signage.me/business1000/resources/adnet_build_package_target_2.mp4", "videoid": "adnetBuildPackages", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "config targets", "url": "http://s3.signage.me/business1000/resources/adnet_config_targets.mp4", "videoid": "adnetConfigTargets", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "HTML banners", "url": "http://s3.signage.me/business1000/resources/adnet_banners.mp4", "videoid": "adnetBanners", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "reports (proof of play)", "url": "http://s3.signage.me/business1000/resources/adnet_reports.mp4", "videoid": "adnetReports", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "timeline assets", "url": "http://s3.signage.me/business1000/resources/adnet_timeline_assets.mp4", "videoid": "adnetTimelimeAssets", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "billing", "url": "http://s3.signage.me/business1000/resources/adnet_billing.mp4", "videoid": "adnetBilling", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "estimate", "url": "http://s3.signage.me/business1000/resources/adnet_estimate.mp4", "videoid": "adnetEstimates", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "rating and feedback", "url": "http://s3.signage.me/business1000/resources/adnet_rating_feedback_crowns.mp4", "videoid": "adnetRatingFeedBack", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "chat", "url": "http://s3.signage.me/business1000/resources/adnet_chat.mp4", "videoid": "adnetChat", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "friend activation", "url": "http://s3.signage.me/business1000/resources/adnet_friend_activation.mp4", "videoid": "adnetFriendActive", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "private server integration", "url": "http://s3.signage.me/business1000/resources/cloud_ads_to_server.mp4", "videoid": "adnetprivServer", "icon": "/videoTutorials/_assets/tree_icon.png" },
+          { "text": "troubleshooting", "url": "http://s3.signage.me/business1000/resources/adnet_troubleshooting.mp4", "videoid": "adnetTroubleshooting", "icon": "/videoTutorials/_assets/tree_icon.png" }
+       ]
+    },
+        {
+          "text": "With StudioDashboard",
+          "children": [
+            
+          ]
+        }
       ]
     },
     {
