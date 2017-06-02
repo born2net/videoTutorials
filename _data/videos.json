@@ -230,7 +230,9 @@
         {
           "text": "With StudioDashboard",
           "children": [
-            
+            { "text": "introduction", "url": "http://s3.signage.me/business1000/resources/dashboard_adnet_introv3.mp4", "videoid": "dashboardAdnetIntro", "icon": "/videoTutorials/_assets/tree_icon.png" },
+            { "text": "configuration", "url": "http://s3.signage.me/business1000/resources/dashboard_adnet_configv2.mp4", "videoid": "dashboardAdnetConfig", "icon": "/videoTutorials/_assets/tree_icon.png" }
+
           ]
         }
       ]
