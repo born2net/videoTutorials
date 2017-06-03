@@ -231,7 +231,10 @@
           "text": "With StudioDashboard",
           "children": [
             { "text": "introduction", "url": "http://s3.signage.me/business1000/resources/dashboard_adnet_introv3.mp4", "videoid": "dashboardAdnetIntro", "icon": "/videoTutorials/_assets/tree_icon.png" },
-            { "text": "configuration", "url": "http://s3.signage.me/business1000/resources/dashboard_adnet_configv2.mp4", "videoid": "dashboardAdnetConfig", "icon": "/videoTutorials/_assets/tree_icon.png" }
+            { "text": "configuration", "url": "http://s3.signage.me/business1000/resources/dashboard_adnet_configv2.mp4", "videoid": "dashboardAdnetConfig", "icon": "/videoTutorials/_assets/tree_icon.png" },
+            { "text": "build ad packages", "url": "http://s3.signage.me/business1000/resources/dashboard_adnet_network_build_packagev4.mp4", "videoid": "dashboardAdnetBuild", "icon": "/videoTutorials/_assets/tree_icon.png" },
+            { "text": "billing", "url": "http://s3.signage.me/business1000/resources/dashboard_adnet_billingv2.mp4", "videoid": "dashboardAdnetBilling", "icon": "/videoTutorials/_assets/tree_icon.png" },
+            { "text": "reports", "url": "http://s3.signage.me/business1000/resources/dashboard_adnet_reportsv2.mp4", "videoid": "dashboardAdnetReports", "icon": "/videoTutorials/_assets/tree_icon.png" }
 
           ]
         }
