@@ -141,9 +141,9 @@
           ]
         },
         {
-          "text": "touch / kiosk",
+          "text": "Touch / kiosk (beta release)",
           "children": [
-            {"text": "Touch / Kiosk project A-Z (beta)", "url": "http://s3.signage.me/business1000/resources/touch_beta_complete_projectv2.mp4", "videoid": "TouchIntroBeta","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Intro to events", "url": "http://s3.signage.me/business1000/resources/touchIntroEventsv2.mp4", "videoid": "TouchIntroEvents","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
         {
