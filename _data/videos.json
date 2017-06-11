@@ -144,10 +144,11 @@
           "text": "Touch / kiosk (beta release)",
           "children": [
             {"text": "Intro to events", "url": "http://s3.signage.me/business1000/resources/touchIntroEventsv2.mp4", "videoid": "TouchIntroEvents","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "List with Filter", "url": "http://s3.signage.me/business1000/resources/touchListPlayerAndFilterv6.mp4", "videoid": "touchListPlayerAndFilter","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "List with Filter", "url": "http://s3.signage.me/business1000/resources/touchListPlayerAndFilterv7.mp4", "videoid": "touchListPlayerAndFilter","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Select list item for details", "url": "http://s3.signage.me/business1000/resources/touchNavListDetails.mp4", "videoid": "touchListDetails","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
-        {
+        {                               
           "text": "Advanced",
           "children": [
             {"text": "Intro", "url": "http://s3.signage.me/business1000/resources/ExternalApplicationIntro.mp4", "videoid": "IntroExtApplication","icon" : "/videoTutorials/_assets/tree_icon.png"},
