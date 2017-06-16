@@ -148,7 +148,8 @@
             {"text": "Select list item for details", "url": "http://s3.signage.me/business1000/resources/touchNavListDetails.mp4", "videoid": "touchListDetails","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Navigation menu", "url": "http://s3.signage.me/business1000/resources/touchNavigationMenu.mp4", "videoid": "touchNavigationMenu","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Forms and Data (part I)", "url": "http://s3.signage.me/business1000/resources/touchFormsData1.mp4", "videoid": "touchFormDatap1","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Forms and Data (part II)", "url": "http://s3.signage.me/business1000/resources/touchFormDatav2.mp4", "videoid": "touchFormData","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Forms and Data (part II)", "url": "http://s3.signage.me/business1000/resources/touchFormDatav2.mp4", "videoid": "touchFormData","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Soft keyboard", "url": "http://s3.signage.me/business1000/resources/softKeyboard.mp4", "videoid": "touchSoftKeyboard","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
         {                               
