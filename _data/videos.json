@@ -151,7 +151,8 @@
             {"text": "Forms and Data (part II)", "url": "http://s3.signage.me/business1000/resources/touchFormDatav2.mp4", "videoid": "touchFormData","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Soft keyboard", "url": "http://s3.signage.me/business1000/resources/softKeyboard.mp4", "videoid": "touchSoftKeyboard","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Popup dialog", "url": "http://s3.signage.me/business1000/resources/touchPopups.mp4", "videoid": "touchPopupDialog","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Active list", "url": "http://s3.signage.me/business1000/resources/touchActiveList.mp4", "videoid": "touchActiveList","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Cart as dynamic list", "url": "http://s3.signage.me/business1000/resources/touchActiveList.mp4", "videoid": "touchActiveList","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Cart and carousel", "url": "http://s3.signage.me/business1000/resources/touchCartWithCarousel.mp4", "videoid": "touchCartAmdCarousel","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
         {                               
