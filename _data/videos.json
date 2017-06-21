@@ -143,7 +143,7 @@
         {
           "text": "Touch / kiosk (beta release)",
           "children": [
-            {"text": "Intro to events", "url": "http://s3.signage.me/business1000/resources/touchIntroEventsv2.mp4", "videoid": "TouchIntroEvents","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Intro to events", "url": "http://s3.signage.me/business1000/resources/touchIntroEventsv3.mp4", "videoid": "TouchIntroEvents","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "List with Filter", "url": "http://s3.signage.me/business1000/resources/touchListPlayerAndFilterv7.mp4", "videoid": "touchListPlayerAndFilter","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Select list item for details", "url": "http://s3.signage.me/business1000/resources/touchNavListDetails.mp4", "videoid": "touchListDetails","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Navigation menu", "url": "http://s3.signage.me/business1000/resources/touchNavigationMenu.mp4", "videoid": "touchNavigationMenu","icon" : "/videoTutorials/_assets/tree_icon.png"},
@@ -152,7 +152,8 @@
             {"text": "Soft keyboard", "url": "http://s3.signage.me/business1000/resources/softKeyboard.mp4", "videoid": "touchSoftKeyboard","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Popup dialog", "url": "http://s3.signage.me/business1000/resources/touchPopups.mp4", "videoid": "touchPopupDialog","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Cart as dynamic list", "url": "http://s3.signage.me/business1000/resources/touchActiveList.mp4", "videoid": "touchActiveList","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Cart and carousel", "url": "http://s3.signage.me/business1000/resources/touchCartWithCarousel.mp4", "videoid": "touchCartAmdCarousel","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Cart and carousel", "url": "http://s3.signage.me/business1000/resources/touchCartWithCarousel.mp4", "videoid": "touchCartAmdCarousel","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Cart and multiple tables", "url": "http://s3.signage.me/business1000/resources/multiCartv2.mp4", "videoid": "touchMultiCart","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
         {                               
