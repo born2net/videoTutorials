@@ -30,6 +30,7 @@
             {"text": "Stock component", "url": "http://s3.signage.me/business1000/resources/Stocks.mp4", "videoid": "14","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "RSS/News/Podcast component", "url": "http://s3.signage.me/business1000/resources/rssMediaRSS.mp4", "videoid": "16","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "JSON Component", "url": "http://s3.signage.me/business1000/resources/json.mp4", "videoid": "JSON","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "JSON Player", "url": "http://s3.signage.me/business1000/resources/jsonPlayerIntro.mp4", "videoid": "jsonPlayerIntro","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "XML Component", "url": "http://s3.signage.me/business1000/resources/XMLComponent.mp4", "videoid": "XML","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Catalog component", "url": "http://s3.signage.me/business1000/resources/Catalog.mp4", "videoid": "Catalog","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Facebook component", "url": "http://s3.signage.me/business1000/resources/Facebookv3.mp4", "videoid": "Facebookv2","icon" : "/videoTutorials/_assets/tree_icon.png"},
@@ -143,7 +144,8 @@
         {
           "text": "Touch / kiosk (beta release)",
           "children": [
-            {"text": "Intro to events", "url": "http://s3.signage.me/business1000/resources/touchIntroEventsv3.mp4", "videoid": "TouchIntroEvents","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Intro to events", "url": "http://s3.signage.me/business1000/resources/jsonPlayerIntro.mp4", "videoid": "jsonPlayerIntro","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Intro to JSON Player", "url": "http://s3.signage.me/business1000/resources/jsonPlayerIntro.mp4", "videoid": "TouchIntroEvents","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "List with Filter", "url": "http://s3.signage.me/business1000/resources/touchListPlayerAndFilterv7.mp4", "videoid": "touchListPlayerAndFilter","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Select list item for details", "url": "http://s3.signage.me/business1000/resources/touchNavListDetails.mp4", "videoid": "touchListDetails","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Navigation menu", "url": "http://s3.signage.me/business1000/resources/touchNavigationMenu.mp4", "videoid": "touchNavigationMenu","icon" : "/videoTutorials/_assets/tree_icon.png"},
