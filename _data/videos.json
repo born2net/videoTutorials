@@ -129,7 +129,8 @@
             {"text": "Channel properties", "url": "http://s3.signage.me/business1000/resources/chprops.mp4", "videoid": "chprops","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Global Scene", "url": "http://s3.signage.me/business1000/resources/globalscenes.mp4", "videoid": "globalscenes","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Resource Thumbnail", "url": "http://s3.signage.me/business1000/resources/thumbnails.mp4", "videoid": "thumbnails","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Screen Division levels", "url": "http://s3.signage.me/business1000/resources/viewlevel.mp4", "videoid": "viewlevel","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Screen Division levels", "url": "http://s3.signage.me/business1000/resources/viewlevel.mp4", "videoid": "viewlevel","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Anchoring", "url": "http://s3.signage.me/business1000/resources/anchoring.mp4", "videoid": "anchoring","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
         {
