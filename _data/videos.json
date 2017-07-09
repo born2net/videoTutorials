@@ -142,7 +142,7 @@
             {"text": "StudioLite SDK (Angular)", "url": "http://s3.signage.me/business1000/resources/StudioLiteAngular.mp4", "videoid": "opensource","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]     
         },
-        {
+        {                     
           "text": "Touch / kiosk (beta release)",
           "children": [
             {"text": "Intro to events", "url": "http://s3.signage.me/business1000/resources/touchIntroEventsv3.mp4", "videoid": "TouchIntroEvents","icon" : "/videoTutorials/_assets/tree_icon.png"},
@@ -159,7 +159,8 @@
             {"text": "Cart and multiple tables", "url": "http://s3.signage.me/business1000/resources/multiCartv2.mp4", "videoid": "touchMultiCart","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Synchronize SignagePlayers", "url": "http://s3.signage.me/business1000/resources/touchBroadcastv3.mp4", "videoid": "touchBroadcast","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Component based navigation", "url": "http://s3.signage.me/business1000/resources/touchCompNav.mp4", "videoid": "touchNavComponents","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Multi call service", "url": "http://s3.signage.me/business1000/resources/touchMultiCallService.mp4", "videoid": "touchMultiCallService","icon" : "/videoTutorials/_assets/tree_icon.png"}
+            {"text": "Multi call service", "url": "http://s3.signage.me/business1000/resources/touchMultiCallService.mp4", "videoid": "touchMultiCallService","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Food menu project", "url": "http://s3.signage.me/business1000/resources/food_tutorial.mp4", "videoid": "touchFoodmenuProjet","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
         {                               
