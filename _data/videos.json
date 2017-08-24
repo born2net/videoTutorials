@@ -146,6 +146,7 @@
           "text": "Touch / kiosk (beta release)",
           "children": [
             {"text": "Marketing intro", "url": "http://s3.signage.me/business1000/resources/touchIntro1_v2.mp4", "videoid": "touchIntro1","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "mediaFRAME, super sized tablet", "url": "http://s3.signage.me/business1000/resources/mediaframev5.mp4", "videoid": "touchIntro1","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Release 6.0 extra features", "url": "http://s3.signage.me/business1000/resources/touch60extras.mp4", "videoid": "touch6ExtraFeatures","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Intro to events", "url": "http://s3.signage.me/business1000/resources/touchIntroEventsv3.mp4", "videoid": "TouchIntroEvents","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Intro to JSON Player", "url": "http://s3.signage.me/business1000/resources/jsonPlayerIntro.mp4", "videoid": "introToJsonPlayer","icon" : "/videoTutorials/_assets/tree_icon.png"},
