@@ -108,6 +108,7 @@
         {
           "text": "Internet of things (IOT)",
           "children": [
+            {"text": "IOT IFTTT (Intro)", "url": "http://s3.signage.me/business1000/resources/ifttt_intro.mp4", "videoid": "iftttintro","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "IOT Vera", "url": "http://s3.signage.me/business1000/resources/iotVera.mp4", "videoid": "vera","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "IOT Arduino Yun", "url": "http://s3.signage.me/business1000/resources/arduinoYun.mp4", "videoid": "arduino","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "RemoteTouch with Mobile", "url": "http://s3.signage.me/business1000/resources/RemoteTouch.mp4", "videoid": "RemoteTouch","icon" : "/videoTutorials/_assets/tree_icon.png"},
