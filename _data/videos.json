@@ -111,6 +111,7 @@
             {"text": "IFTTT transmit", "url": "http://s3.signage.me/business1000/resources/ifttt_intro.mp4", "videoid": "iftttintro","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "IFTTT receive", "url": "http://s3.signage.me/business1000/resources/smartswitch.mp4", "videoid": "iftttintrop2","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "IFTTT transmit and receive", "url": "http://s3.signage.me/business1000/resources/ifttt_sms.mp4", "videoid": "iftttintrop3","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Stringify transmit and receive", "url": "http://s3.signage.me/business1000/resources/StringifyProject.mp4", "videoid": "StringifyProject","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "IOT Vera", "url": "http://s3.signage.me/business1000/resources/iotVera.mp4", "videoid": "vera","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "IOT Arduino Yun", "url": "http://s3.signage.me/business1000/resources/arduinoYun.mp4", "videoid": "arduino","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "RemoteTouch with Mobile", "url": "http://s3.signage.me/business1000/resources/RemoteTouch.mp4", "videoid": "RemoteTouch","icon" : "/videoTutorials/_assets/tree_icon.png"},
