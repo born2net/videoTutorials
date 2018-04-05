@@ -121,12 +121,12 @@
             {"text": "Scripting", "url": "http://s3.signage.me/business1000/resources/Scriping.mp4", "videoid": "Scripts","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]
         },
-        {
+        {                        
           "text": "Tips and tricks",
           "children": [
             {"text": "Continuous Channel", "url": "http://s3.signage.me/business1000/resources/ContinuousChannel.mp4", "videoid": "ContinousChannel","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Copy/Paste between accounts", "url": "http://s3.signage.me/business1000/resources/CopyPaste.mp4", "videoid": "copyPaste","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Cropping HTML web site", "url": "http://s3.signage.me/business1000/resources/HTMLCrop.mp4", "videoid": "HTMLCrop","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Cropping HTML web site", "url": "http://s3.signage.me/business1000/resources/HTMLCropv2.mp4", "videoid": "HTMLCrop","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Multi selection / alignments", "url": "http://s3.signage.me/business1000/resources/MultiFunctions.mp4", "videoid": "Multi","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Folder and Filters", "url": "http://s3.signage.me/business1000/resources/FolderFilter.mp4", "videoid": "folderFilterv2","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Resource perspective", "url": "http://s3.signage.me/business1000/resources/perspective.mp4", "videoid": "perspective","icon" : "/videoTutorials/_assets/tree_icon.png"},
