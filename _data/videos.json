@@ -13,6 +13,7 @@
         {
           "text": "Start here",
           "children": [
+            {"text": "Simple mode", "url": "http://s3.signage.me/business1000/resources/StudioProMode.mp4", "videoid": "Simplemode","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Basic intro", "url": "http://s3.signage.me/business1000/resources/DSIntro.mp4", "videoid": "StartHere","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Feature intro", "url": "http://s3.signage.me/business1000/resources/MediaSignageFeatures.mp4", "videoid": "FeaturesIntro","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Intro to Campaigns", "url": "http://s3.signage.me/business1000/resources/Campaigns.mp4", "videoid": "campaigns","icon" : "/videoTutorials/_assets/tree_icon.png"},
@@ -117,7 +118,7 @@
             {"text": "RemoteTouch with Mobile", "url": "http://s3.signage.me/business1000/resources/RemoteTouch.mp4", "videoid": "RemoteTouch","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "RemotePad with Mobile", "url": "http://s3.signage.me/business1000/resources/RemotePad.mp4", "videoid": "RemotePad","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Remote Values component", "url": "http://s3.signage.me/business1000/resources/RemoteValues.mp4", "videoid": "RemoteValues","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Events and Triggers", "url": "http://s3.signage.me/business1000/resources/EventsTriggers.mp4", "videoid": "EventsTriggers","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Events and Triggers", "url": "http://s3.signage.me/business1000/resources/TriggersEventsv2.mp4", "videoid": "EventsTriggers","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Scripting", "url": "http://s3.signage.me/business1000/resources/Scriping.mp4", "videoid": "Scripts","icon" : "/videoTutorials/_assets/tree_icon.png"}
           ]                         
         },
@@ -185,7 +186,7 @@
             {"text": "VLC", "url": "http://s3.signage.me/business1000/resources/ExternalApplicationVLC.mp4", "videoid": "VLC","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "PowerPoint", "url": "http://s3.signage.me/business1000/resources/powerpoint.mp4", "videoid": "powerPointExtApp","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Transition effect", "url": "http://s3.signage.me/business1000/resources/Transition.mp4", "videoid": "Transition","icon" : "/videoTutorials/_assets/tree_icon.png"},
-            {"text": "Events and Triggers", "url": "http://s3.signage.me/business1000/resources/EventsTriggers.mp4", "videoid": "EventsTriggers","icon" : "/videoTutorials/_assets/tree_icon.png"},
+            {"text": "Events and Triggers", "url": "http://s3.signage.me/business1000/resources/TriggersEventsv2.mp4", "videoid": "EventsTriggers","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Scripting", "url": "http://s3.signage.me/business1000/resources/Scriping.mp4", "videoid": "Scripts","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Video wall setup", "url": "http://s3.signage.me/business1000/resources/VideoWall.mp4", "videoid": "VideoWall","icon" : "/videoTutorials/_assets/tree_icon.png"},
             {"text": "Power Savings", "url": "http://s3.signage.me/business1000/resources/PowerSavings.mp4", "videoid": "PowerSavings","icon" : "/videoTutorials/_assets/tree_icon.png"},
